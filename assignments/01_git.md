@@ -2,7 +2,7 @@
 
 * **INDIVIDUAL ASSIGNMENT**
 * **Deadline**: XXXXX
-* **How to submit**: TBD
+* **How to submit**: For each empty grey box, please provide with an answer to the item in a document. Submit to BBlearn as a PDF or DOC file.
 * **Value**: Part of homework grade
 
 ## Description
