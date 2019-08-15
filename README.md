@@ -23,7 +23,7 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 |Week|Date.   | Content (tentative)                                   | Comments.      | Assignments out          | Deadline |
 |----|--------|-------------------------------------------------------|----------------|--------------------------|----------|
 | 1  | 27-Aug | Hello/Intro to Programming languages                  |                |                          |          |
-|    | 29-Aug | Git/GitHub                                            |                | HW1 (Git)                |          |
+|    | 29-Aug | [Git/GitHub](slides/lectureGit.pdf)                   |                | [HW1](assignments/01_git.md)|.      |
 | 2  | 3-Sep  |                                                       |                |                          |          |
 |    | 5-Sep  | Python essentials (kicking Off)                       |                |                          | HW1      |
 | 3  | 10-Sep | Python essentials (basics)                            | Igor traveling | PA1, HW2 (python basics) |          |
