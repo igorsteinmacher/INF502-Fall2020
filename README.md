@@ -19,6 +19,7 @@ Download Fall 2019 syllabus here
 Everything on this schedule *is subject to change* based on how the specific student and course needs that emerge. Please **stay tuned for changes and assignments that will appear here** as the course progresses.
 
 Work is to be submitted via BbLearn whenever not specified differently. When via BBLearn, the deliverable must be in Word or PDF format.
+
 |Week|Date.   | Content (tentative)                                   | Comments.      | Assignments out          | Deadline |
 |----|--------|-------------------------------------------------------|----------------|--------------------------|----------|
 | 1  | 27-Aug | Hello/Intro to Programming languages                  |                |                          |          |
