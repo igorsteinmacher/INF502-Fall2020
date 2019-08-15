@@ -16,7 +16,7 @@ For each item in the assignment, please provide appropriate explanation and/or t
 To conduct this, you will have to download [handson.zip](handson.zip) and unzip it.
 handson folder is a git repository. Using the commandline change the directory to "handson/"
 
-The boxes
+The empty boxes
 ```
 
 ```
@@ -56,7 +56,7 @@ represent the content you need to fill and submit via BBlearn as a document (PDF
 ```
 
 
-5. Write a command (or sequence) to (i) create a new branch called `feature-bar` (from the `master`) 
+5. Write a command (or sequence) to (i) create a new branch called `math` (from the `master`) 
 and (ii) change to this branch
 
 ```
@@ -65,8 +65,9 @@ and (ii) change to this branch
 ```
    
 6. Edit B.py adding the following source code below the content you have there
-```code
-print 'hello world!'
+```
+print 'I know math, look:'
+print 2+2
 ```
 
 7. Write a command (or sequence) to commit your changes
@@ -77,11 +78,10 @@ print 'hello world!'
 
 8. Change back to the `master` branch and change B.py adding the following source code (commit your change to `master`):
 ```
-print 'I know math, look:'
-print 2+2
+print 'hello world!'
 ```
 
-9. Write a command sequence to merge the `feature-bar` branch into `master` and describe what happened
+9. Write a command sequence to merge the `math` branch into `master` and describe what happened
 ```
 
 
