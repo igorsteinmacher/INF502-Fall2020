@@ -1,16 +1,17 @@
 # Git/GitHub Assignment
 
-**INDIVIDUAL ASSIGNMENT**
-**Deadline**: September 18
-**How to submit**: BBLearn
-**Value**: Part of in-class/short assignments grade
+* **INDIVIDUAL ASSIGNMENT**
+* **Deadline**: XXXXX
+* **How to submit**: BBLearn
+* **Value**: Part of homework grade
 
 ## Description
 This assignment is composed of two parts. 
-- Part 1 consists of executing a sequence of commands and giving explanations about the commands you have to run. 
+- [Part 1](#Part-1-Dealing-with-git) consists of executing a sequence of commands and giving explanations about the commands you have to run. 
 For each item in the assignment, please provide appropriate explanation and/or the details requested.
 - Part 2
-### Part 1: Dealing with git.
+
+### Part 1 Dealing with git
 
 To conduct this, you will have to download [handson.zip](handson.zip) and unzip it.
 handson folder is a git repository. Using the commandline change the directory to "handson/"
