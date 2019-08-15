@@ -11,7 +11,7 @@ This assignment is composed of two parts.
 For each item in the assignment, please provide appropriate explanation and/or the details requested.
 - Part 2
 
-### Part 1 Dealing with git
+### Part 1: Dealing with git
 
 To conduct this, you will have to download [handson.zip](handson.zip) and unzip it.
 handson folder is a git repository. Using the commandline change the directory to "handson/"
