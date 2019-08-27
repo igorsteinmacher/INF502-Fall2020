@@ -5,6 +5,10 @@ Course content for the Fall 2019 offering of INF 502 at Northern Arizona Univers
 * **Meeting time:** TuTh 2:20PM - 3:35PM (Bldg 90 - 102)
 * **Instructor:** Igor Steinmacher
 
+## Office hours
+* My office hours are on Mondays 1:30pm-2:30pm and Fridays 9:00am-10:00am
+* Easier: you can reach me on our Slack channel and make this a more interactive course. [Join our slack Channel](https://join.slack.com/t/inf502-fall2019/shared_invite/enQtNzI1NDAyMDY2NzY5LWY2MDZkMDUxODlkMGY2NzdhMWMwZjkzMGFiOTU3MDY5YWI0ZDBjOWU2ZGJlMTY4ZDQwZmRiZWQ4YWNkMTUyNDY)
+
 ## Important dates
 
 * **Last day to drop without a W:** September 5
