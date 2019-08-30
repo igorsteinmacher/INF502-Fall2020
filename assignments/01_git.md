@@ -1,8 +1,14 @@
 # Git/GitHub Assignment
 
 * **INDIVIDUAL ASSIGNMENT**
-* **Deadline**: XXXXX
-* **How to submit**: For each empty grey box, please provide with an answer to the item in a document. Submit to BBlearn as a PDF or DOC file.
+* **Deadline**: Sept-9th 11:59PM
+* **How to submit**: For each empty grey box, please provide with an answer to the item in a document. Do the following to *submit* the **Part 1** of your assignment:
+1. Create a new repository under your GitHub account called *INF502*; 
+2. create a file called *"Assignment1.md"* and paste your answers there (tip: click on *"Raw"* at the right-top of this file to get the markdown source); 
+3. invite me to see your new repository. This will allow you to keep a private repository that 
+
+For **Part 2** the pull request creation is the submission.
+
 * **Value**: Part of homework grade
 
 ## Description
