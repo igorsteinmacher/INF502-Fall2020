@@ -26,7 +26,7 @@ The empty boxes
 ```
 
 ```
-represent the content you need to fill and submit via BBlearn as a document (PDF or Word)
+represent the content you need to fill and post on your private repository
 
 
 1. Draw a diagram of the commits and branches in repository.
@@ -127,7 +127,7 @@ The goal of this assignment is to put you in touch with the fork-pullrequest pro
 
 3. Send your file back to this repository until creating a pull request (your pull request needs to appear [here](https://github.com/igorsteinmacher/CS502-Fall2019/pulls)).
 
-4. In the document that you will submit to BBLearn, report your experience of making this submission, including the steps followed, commands used, and hurdles faced.
+4. Report your experience of making this submission, including the steps followed, commands used, and hurdles faced (within the file you created for the **Part 1**.
 ```
 
 
