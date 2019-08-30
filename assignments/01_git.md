@@ -20,7 +20,7 @@ For each item in the assignment, please provide appropriate explanation and/or t
 ### Part 1: Dealing with git
 
 To conduct this, you will have to download [handson.zip](handson.zip) and unzip it.
-handson folder is a git repository. Using the commandline change the directory to "handson/"
+handson folder is a git repository. Using the command line change the directory to "handson/"
 
 The empty boxes
 ```
@@ -99,7 +99,7 @@ print 'hello world!'
 
 ```
    
-11. Now repeat item 10, but proceed with the manual merge (Editing B.java). All implemented methods are needed. Explain your procedure
+11. Now repeat item 10, but proceed with the manual merge (Editing B.py). All implemented methods are needed. Explain your procedure
 ```
 
 
@@ -125,7 +125,7 @@ The goal of this assignment is to put you in touch with the fork-pullrequest pro
 - 3 outcomes of the paper
 - link to the paper online
 
-3. Send your file back to this repository until creating a pull request (your pull request needs to appear [here](https://github.com/igorsteinmacher/CS502-Fall2019/pulls).
+3. Send your file back to this repository until creating a pull request (your pull request needs to appear [here](https://github.com/igorsteinmacher/CS502-Fall2019/pulls)).
 
 4. In the document that you will submit to BBLearn, report your experience of making this submission, including the steps followed, commands used, and hurdles faced.
 ```
