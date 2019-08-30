@@ -7,7 +7,7 @@
 2. create a file called *"Assignment1.md"* and paste your answers there (tip: click on *"Raw"* at the right-top of this file to get the markdown source); 
 3. invite me to see your new repository. This will allow you to keep a private repository that 
 
-For **Part 2** the pull request creation is the submission.
+For **Part 2** the pull request created will the submission (except for item 4, which you need to add to the end of the Assignemnt1.md).
 
 * **Value**: Part of homework grade
 
