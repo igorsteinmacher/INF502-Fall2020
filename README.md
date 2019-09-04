@@ -30,16 +30,16 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 |    | 29-Aug | [Git/GitHub](slides/lectureGit.pdf)                   |                | [HW1](assignments/01_git.md)|.      |
 | 2  | 3-Sep  |                                                       |                |                          |          |
 |    | 5-Sep  | Python essentials (kicking Off)                       |                |                          |          |
-| 3  | 10-Sep | Python essentials (basics)                            | Igor traveling | [PA1](assignments/pa01.md), [HW2](02_pythonBasics.md) |  HW1          |
+| 3  | 10-Sep | Python essentials (basics)                            | Igor traveling | [PA1](assignments/pa01.md), HW2 |  HW1          |
 |    | 12-Sep |                                                       | Igor traveling |                          |          |
 | 4  | 17-Sep |                                                       |                |                          | HW2      |
 |    | 19-Sep |                                                       |                | HW3                      |          |
 | 5  | 24-Sep |                                                       |                |                          |          |
 |    | 26-Sep | Jupyter Notebooks                                     |                | HW4 (Jupyter)            | HW3      |
 | 6  | 1-Oct  |                                                       |                |                          |          |
-|    | 3-Oct  | Intro to object-oriented development                  |                | HW5                      | HW4      |
+|    | 3-Oct  | Intro to object-oriented development                  |                | HW5                      | HW4, PA1     |
 | 7  | 8-Oct  |                                                       |                |                          |          |
-|    | 10-Oct |                                                       |                |                          | HW5, PA1 |
+|    | 10-Oct |                                                       |                |                          | HW5      |
 | 8  | 15-Oct | MID TERM                                              | Igor traveling |                          |          |
 |    | 17-Oct | MID TERM Discussion                                   | Igor traveling |                          |          |
 | 9  | 22-Oct | Agile development: kanban; test-driven development;   |                | HW5 (stories, TDD), PA2  |          |
