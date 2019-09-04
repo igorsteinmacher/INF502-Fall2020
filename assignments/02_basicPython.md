@@ -3,9 +3,9 @@
 * **INDIVIDUAL ASSIGNMENT**
 * **Deadline**: Sept-16th 11:59PM
 * **How to submit**: For each item, provide an answer as requested in the item (usually the source code + explanations + iteractive shell output)
-  In your GitHub repository called *INF502* (same used for the Assignment 1) create a file called *"Assignment2.md"* with your answers (I will allow the answer in PDF format for those who prefer, but I strongly encourage using Markdown.)
+  - In your GitHub repository called *INF502* (same used for the Assignment 1) create a file called *"Assignment2.md"* with your answers (I will allow the answer in PDF format for those who prefer, but I strongly encourage using Markdown.)
   Remember to invite me to see your new repository (if you did not for Assignment 1). 
-  I will evaluate the latest commit before 11:59PM (Sept-16th)
+  - I will evaluate the latest commit before 11:59PM (Sept-16th)
 
 **1. Write a function with the following signature:** `pythagoreanTheorem(length_a, length_b)`.
 
