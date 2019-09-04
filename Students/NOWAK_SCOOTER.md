@@ -1,6 +1,6 @@
 # Scooter Nowak
 ## Title:
-### Segment-wise nonparametric classification of multivariate function data: lupus identification using plasma thermograms 
+### Segment-wise nonparametric classification of multivariate functional data: lupus identification using plasma thermograms 
 ## Venue:
 ### *Journal of Applied Statistics* 
 ## Number of pages:
