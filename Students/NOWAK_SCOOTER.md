@@ -6,4 +6,4 @@
 #### 1. This stuff is rather complex to understand without a PhD in Applied Math... but not impossible. 
 #### 2. The R code is even harder... if you have never written R code... I have. 
 #### 3. I love a challenge. 
-### Link: Submitted [Just a Junk Link](http:nau.edu)
+### Link: [Unsubmitted paper: Just a Junk Link](http:nau.edu)
