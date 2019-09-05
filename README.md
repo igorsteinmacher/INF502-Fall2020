@@ -31,7 +31,7 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 | 2  | 3-Sep  |                                                       |                |                          |          |
 |    | 5-Sep  | Python essentials (kicking Off)                       |                |                          |          |
 | 3  | 10-Sep | Python essentials (basics)                            | Igor traveling | [PA1](assignments/pa01.md), [HW2](assignments/02_basicPython.md) |  HW1          |
-|    | 12-Sep |                                                       | Igor traveling |                          |          |
+|    | 12-Sep |              | Igor traveling |                          |          |
 | 4  | 17-Sep |                                                       |                |                          |       |
 |    | 19-Sep |                                                       |                | HW3                      | HW2          |
 | 5  | 24-Sep |                                                       |                |                          |          |
