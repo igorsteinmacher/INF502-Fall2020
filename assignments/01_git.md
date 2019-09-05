@@ -99,7 +99,7 @@ print 'hello world!'
 
 ```
    
-11. Now repeat item 10, but proceed with the manual merge (Editing B.py). All implemented methods are needed. Explain your procedure
+11. Now repeat item 9, but proceed with the manual merge (Editing B.py). All implemented methods are needed. Explain your procedure
 ```
 
 
