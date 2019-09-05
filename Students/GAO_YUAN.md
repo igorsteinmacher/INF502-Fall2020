@@ -8,4 +8,4 @@
     2. The carbon residence time and NPP are traced to their baseline values and the environmental scalars.
 
     3. The variation in the carbon storage is decomposed into several components for the three MIPs using the variance decomposition method.
-1 [website]:https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-17-0357.1
+1. [website](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-17-0357.1)
