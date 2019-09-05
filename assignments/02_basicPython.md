@@ -16,7 +16,7 @@ For example:
 >>> pythagoreanTheorem(2, 2)
 2.8284271247461903
 ```
-Present your source code and the interactive shell output of three example runs.
+Present your source code and the output of three example runs.
 
 **2. Write a function with the following signature:** `list_mangler(list_in)`.
 
@@ -29,7 +29,7 @@ For example:
 [3, 4, 9, 8]
 ```
 
-Present a short (no more than a couple of sentences) description of your solution approach. Show your source code and the interactive shell output of three example runs.
+Present a short (no more than a couple of sentences) description of your solution approach. Show your source code and the output of three example runs.
 
 **3. Write a function with the following signature:** `grade_calc(grades_in, to_drop)`.
 
@@ -42,7 +42,7 @@ For example:
 'A'
 ```
 
-Present a short (no more than a couple of sentences) description of your solution approach. Then show your source code and the interactive shell output of three example runs.
+Present a short (no more than a couple of sentences) description of your solution approach. Then show your source code and the  output of three example runs.
 
 **4. Write a function with the following signature:** `odd_even_filter(numbers)`.
 
