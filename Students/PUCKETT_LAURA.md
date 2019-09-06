@@ -1,8 +1,9 @@
-Title: **Frequency, not relative abundance, of temperature tree species varies along climate gradient in stern North America**
+Title: **Frequency, not relative abundance, of temperature tree species varies along climate gradient in eastern North America**
 
 journal: *Ecology*
 
 Number of pages: 8
+
 3 outcomes:
 * frequency of northeastern temperature tree species was more related to climate gradients than relative abundance 
 * relative abundance was nearly constant up until the edge of the climate range of a species
