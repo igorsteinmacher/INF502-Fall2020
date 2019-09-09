@@ -8,10 +8,10 @@
 
 4. Outcomes:
 
-        - This paper presents a design principle that helps guide placement of functions among the modules of a distributed computer system.
+    This paper presents a design principle that helps guide placement of functions among the modules of a distributed computer system.
 
-        - This paper proposes a well-known "end-to-end principle" that is designed to help system designers analyze how to choose the proper boundaries between functions and how to place functions into the appropriate layers.
+    This paper proposes a well-known "end-to-end principle" that is designed to help system designers analyze how to choose the proper boundaries between functions and how to place functions into the appropriate layers.
         
-        - The examples discussed in this article include bit error recovery, using cryptographic security, duplicate message suppression, recovering from system crashes, and passing acknowledgments.
+    The examples discussed in this article include bit error recovery, using cryptographic security, duplicate message suppression, recovering from system crashes, and passing acknowledgments.
 
 5. Link: https://dl.acm.org/citation.cfm?id=357402
