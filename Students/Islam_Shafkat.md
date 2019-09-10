@@ -5,4 +5,5 @@ Outcomes:
 - Proposes a method called Dropout to avoid overfitting
 - The method is computationally efficient than other methods such as merging different architectures or using large architecture,.
 - It improves the efficiency of the model
+
 Link: https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf
