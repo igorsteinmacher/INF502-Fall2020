@@ -97,14 +97,16 @@ git commit -m "add two lines in B.py on handson branch"
 8. Change back to the `master` branch and change B.py adding the following source code (commit your change to `master`):
 ```
 print 'hello world!'
+git checkout master
+# Make the edits
+git add B.py
+git commit -m "add one lines in B.py on master branch"
 ```
 
 9. Write a command sequence to merge the `math` branch into `master` and describe what happened
 ```
-git checkout master
-git add B.py
-git commit -m "add one lines in B.py on master branch"
-git merge handson
+git checkout master #Already on master
+git merge math
 ```
 
 10. Write a set of commands to abort the merge
@@ -145,6 +147,25 @@ The goal of this assignment is to put you in touch with the fork-pullrequest pro
 
 4. Report your experience of making this submission, including the steps followed, commands used, and hurdles faced (within the file you created for the **Part 1**.
 ```
+Part 1.
+- Fork repo (make mine)
+- Open git shell in your PC. I have to move the main folder from "C:/Google Drive/PhD ..." to "C:/Github... " using Github becouse the space in route ("pwd") results in an error.
+- Open git console in GitHub default working directory
+- Clone the repo 'git clone https://github.com/gonzalezivan90/INF502-Fall2019.git'
+- Check `git branch` - `git checkout` - `git log --decorate` for see the current repo status
+- Check `git log --graph --all` for see historical changes
+- Create a branch using `git branch handson`
+- Use `git checkout master` and `git diff handson` to see differences between *handson to *master. This command don't show changes.
+- Use `git merge handson` to merge *handson to *master. 
+- Use `git branch math` and `git checkout math` to create a new branch and move on it
+- Add the lines on /handson/B.py. Use `git add B.py` and `git commit -m "Add two lines in B.py on handson branch"`
+- Add 1 line on /master/B.py (I had to cheat copy /handson/B.py to /B.py). Use `git add B.py` and `git commit -m "Add 1 lines in B.py on master branch"`
+- Use `git checkout master` - `git add B.py` - `git commit -m "add one lines in B.py on master branch"` - `git merge math`. These commands were used to edit /B.py and try to merge /math/B.py with master file. None problem but neither results.
+- Use `git merge --abort` to abort the previous merge.
+- As non error given, as expected in point 11, go to 12.
+- Use `git checkout master` - `git merge handson` - `git rebase` to get a up-to-date master branche.
+- Use `git push --all origin` to push all changes to cloud.
 
 
+At some point I had challenges with working directory. Once y move to non-space path, the other big problem is that branching didn't copy files into them. So expected merges and conflicts didn't worked well.
 ```
