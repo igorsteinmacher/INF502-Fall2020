@@ -1,0 +1,165 @@
+1.Draw a diagram of the commits and branches in repository.
+
+Use git branch to list the branches in this repository.
+51599@DESKTOP-5UQJRTR MINGW64 ~/Favorites/handson (master)
+$ git branch
+* master
+  math
+
+Use git checkout to explore each branch.
+51599@DESKTOP-5UQJRTR MINGW64 ~/Favorites/handson (master)
+$ git checkout math
+Switched to branch 'math'
+
+Use git log --decorate to explore the structure of commits.
+51599@DESKTOP-5UQJRTR MINGW64 ~/Favorites/handson (math)
+$ git log
+commit e3c629dd524712aedea96d7dbaad1c50d12b5b5e (HEAD -> math)
+Author: Igor Steinmacher <igorsteinmacher@gmail.com>
+Date:   Wed Aug 14 23:13:48 2019 -0700
+
+    Adding some more knowledge to the function
+
+commit 654b490a181dedf82dd6deda5f9848d6cca05918
+Author: Igor Steinmacher <igorsteinmacher@gmail.com>
+Date:   Wed Aug 14 23:12:14 2019 -0700
+
+    Added a draft of A.py
+
+commit 2dfb02c3f9383d6c3b2695c99e175d8b85f594a1
+Author: Igor Steinmacher <igorsteinmacher@gmail.com>
+Date:   Wed Aug 14 23:08:47 2019 -0700
+
+     Creating all files (all empty)
+
+
+2.Try git log --graph --all to see the commit tree. What do you see?
+51599@DESKTOP-5UQJRTR MINGW64 ~/Favorites/handson (math)
+$ git log --graph --all
+* commit 18931d12a8be7cac049b73c6bc8136e9482f3371 (master)
+| Author: Igor Steinmacher <igorsteinmacher@gmail.com>
+| Date:   Wed Aug 14 23:15:28 2019 -0700
+|
+|     Making a small change here
+|
+| * commit e3c629dd524712aedea96d7dbaad1c50d12b5b5e (HEAD -> math)
+|/  Author: Igor Steinmacher <igorsteinmacher@gmail.com>
+|   Date:   Wed Aug 14 23:13:48 2019 -0700
+|
+|       Adding some more knowledge to the function
+|
+* commit 654b490a181dedf82dd6deda5f9848d6cca05918
+| Author: Igor Steinmacher <igorsteinmacher@gmail.com>
+| Date:   Wed Aug 14 23:12:14 2019 -0700
+|
+|     Added a draft of A.py
+|
+* commit 2dfb02c3f9383d6c3b2695c99e175d8b85f594a1
+  Author: Igor Steinmacher <igorsteinmacher@gmail.com>
+  Date:   Wed Aug 14 23:08:47 2019 -0700
+
+       Creating all files (all empty)
+
+
+3.Use git diff BRANCH_NAME to view the differences from a branch and the current branch. Summarize the difference from master to the other branch.
+$ git diff math
+diff --git a/B.py b/B.py
+index 289799c..62c1287 100644
+--- a/B.py
++++ b/B.py
+@@ -1,2 +1,8 @@
++<<<<<<< HEAD
++
++
++print 'hello world!'# Another file that will receive a line of code... at least.
++
+ print 'I know math, look:'
+ print 2+2 Another file that will receive a line of code... at least.
++>>>>>>> math
+They both have 2 files, but in master branch, it only has one line code, and in math branch it has more operate code. 
+
+4.Write a command sequence to merge the non-master branch into master
+git merge math
+51599@DESKTOP-5UQJRTR MINGW64 ~/handson (master)
+$ git merge math
+Already up to date.
+
+
+5.Write a command (or sequence) to (i) create a new branch called math (from the master) and (ii) change to this branch
+git checkout -b math
+
+6.Edit B.py adding the following source code below the content you have there
+print 'I know math, look:'
+print 2+2
+
+vi B.py
+print 'I know math, look:'
+print 2+2
+:wq
+
+7.Write a command (or sequence) to commit your changes
+51599@DESKTOP-5UQJRTR MINGW64 ~/Favorites/handson (math)
+$ git commit -m "new thing"
+[math db39f8f] new thing
+ 1 file changed, 2 insertions(+)
+
+
+8.Change back to the master branch and change B.py adding the following source code (commit your change to master):
+print 'hello world!'
+git checkout master
+vi B.py
+print 'hello world!'
+:wq
+51599@DESKTOP-5UQJRTR MINGW64 ~/Favorites/handson (master)
+$ git add B.py
+
+51599@DESKTOP-5UQJRTR MINGW64 ~/Favorites/handson (master)
+$ git commit -m "something new"
+[master f700f2b] something new
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+9.Write a command sequence to merge the math branch into master and describe what happened
+git merge math
+
+51599@DESKTOP-5UQJRTR MINGW64 ~/Favorites/handson (master)
+$ git merge math
+Auto-merging B.py
+CONFLICT (content): Merge conflict in B.py
+Automatic merge failed; fix conflicts and then commit the result.
+
+
+10.Write a set of commands to abort the merge
+git merge --abort
+
+11.Now repeat item 9, but proceed with the manual merge (Editing B.py). All implemented methods are needed. Explain your procedure
+
+51599@DESKTOP-5UQJRTR MINGW64 ~/Favorites/handson (master|MERGING)
+$ git mergetool
+
+This message is displayed because 'merge.tool' is not configured.
+See 'git mergetool --tool-help' or 'git help config' for more details.
+'git mergetool' will now attempt to use one of the following tools:
+opendiff kdiff3 tkdiff xxdiff meld tortoisemerge gvimdiff diffuse diffmerge ecmerge p4merge araxis bc codecompare smerge emerge vimdiff
+Merging:
+B.py
+
+Normal merge conflict for 'B.py':
+  {local}: modified file
+  {remote}: modified file
+Hit return to start merge resolution tool (vimdiff): vi B.py
+delete ======
+
+51599@DESKTOP-5UQJRTR MINGW64 ~/Favorites/handson (master|MERGING)
+$ git add B.py
+
+51599@DESKTOP-5UQJRTR MINGW64 ~/Favorites/handson (master|MERGING)
+$ git commit -m"solve conflict"
+[master f539e3d] solve conflict
+
+
+
+
+12.Write a command (or set of commands) to proceed with the merge and make master branch up-to-date
+51599@DESKTOP-5UQJRTR MINGW64 ~/Favorites/handson (master)
+$ git merge math
+Already up to date.
