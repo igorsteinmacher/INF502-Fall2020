@@ -1,6 +1,4 @@
-import os
-
-
+import os #built-in function
 
 def print_main_window():
     os.system('clear')
@@ -19,11 +17,12 @@ def list_the_numbers (list1):
     for element in list1:
         print (element)
 
-list_numbers = []
+list_numbers = [] #defining an empty list
 
 while (True):
     print_main_window()
     option = int(input("Your option: "))
+    os.system('clear')
     if (option == 1):
         number = int(input("Type the number you want to add: "))
         list_numbers.append(number)
@@ -39,7 +38,7 @@ while (True):
     else:
         print ("Invalid option. ")
 
-    input("\n\nClick any key to return.")
+    input("\n\nClick Return key to return.")
 
 
 
