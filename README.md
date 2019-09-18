@@ -32,7 +32,7 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 |    | 5-Sep  |[Python essentials](slides/Python_ready_set_go.pdf) | Syntax, types               |                          |          |
 | 3  | 10-Sep | Python essentials                            | Igor traveling | [PA1](assignments/pa01.md), [HW2](assignments/02_basicPython.md) |  HW1          |
 |    | 12-Sep |              | Igor traveling |                          |          |
-| 4  | 17-Sep |                                                       |                |                          |       |
+| 4  | 17-Sep | Python part 2 (files/exceptions) - ([slides](slides/Python_class2.pdf   |                |                          |       |
 |    | 19-Sep |                                                       |                | [HW3](assignments/03_dictionary_list.md)                      | HW2          |
 | 5  | 24-Sep |                                                       |                |                          |          |
 |    | 26-Sep | Jupyter Notebooks                                     |                | HW4 (Jupyter)            | HW3      |
