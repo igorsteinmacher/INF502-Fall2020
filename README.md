@@ -33,25 +33,25 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 | 3  | 10-Sep | Python essentials                            | Igor traveling | [PA1](assignments/pa01.md), [HW2](assignments/02_basicPython.md) |  HW1          |
 |    | 12-Sep |              | Igor traveling |                          |          |
 | 4  | 17-Sep |                                                       |                |                          |       |
-|    | 19-Sep |                                                       |                | HW3                      | HW2          |
+|    | 19-Sep |                                                       |                | [HW3](assignments/03_dictionary_list.md)                      | HW2          |
 | 5  | 24-Sep |                                                       |                |                          |          |
 |    | 26-Sep | Jupyter Notebooks                                     |                | HW4 (Jupyter)            | HW3      |
 | 6  | 1-Oct  |                                                       |                |                          |          |
 |    | 3-Oct  | Intro to object-oriented development                  |                | HW5                      | HW4, PA1     |
 | 7  | 8-Oct  |                                                       |                |                          |          |
 |    | 10-Oct |                                                       |                |                          | HW5      |
-| 8  | 15-Oct | MID TERM                                              | Igor traveling |                          |          |
-|    | 17-Oct | MID TERM Discussion                                   | Igor traveling |                          |          |
+| 8  | 15-Oct | MID TERM                                              |                |                          |          |
+|    | 17-Oct | MID TERM Delivery.                                    |                |                          |          |
 | 9  | 22-Oct | Agile development: kanban; test-driven development;   |                | HW5 (stories, TDD), PA2  |          |
 |    | 24-Oct |                                                       |                |                          |          |
 | 10 | 29-Oct |                                                       |                |                          | HW5      |
 |    | 31-Oct | Scrapping/webservices/Pandas                          |                | PA3, HW6                 | PA2      |
 | 11 | 5-Nov  |                                                       |                |                          |          |
 |    | 7-Nov  |                                                       |                |                          | HW6      |
-| 12 | 12-Nov |                                                       |                |                          |          |
-|    | 14-Nov | Complexity of algorithms: just a smell                |                | HW7                      |          |
-| 13 | 19-Nov | Algorithm design and sorting/searching strategies     |                |                          |          |
-|    | 21-Nov |                                                       |                |                          |          |
+| 12 | 12-Nov | Complexity of algorithms: just a smell                |                |                          |          |
+|    | 14-Nov | Algorithm design and sorting/searching strategies.    |                | HW7                      |          |
+| 13 | 19-Nov |                                                       | Igor Traveling |                          |          |
+|    | 21-Nov |                                                       | Igor Traveling |                          |          |
 | 14 | 26-Nov |                                                       |                |                          |          |
 |    | 28-Nov | THANKSGIVING                                          |                |                          |          |
 | 15 | 3-Dec  |                                                       |                |                          | HW7, PA3 |
