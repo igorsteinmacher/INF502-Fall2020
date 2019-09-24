@@ -34,7 +34,7 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 |    | 12-Sep |              | Igor traveling |                          |          |
 | 4  | 17-Sep | Python part 2 (files/exceptions) - ([slides](slides/Python_class2.pdf))   |                |                          |       |
 |    | 19-Sep |                                                       |                | [HW3](assignments/03_dictionary_list.md)                      | HW2          |
-| 5  | 24-Sep |                                                       |                |                          |          |
+| 5  | 24-Sep | [In Class assignment](assignments/inClassSept24.md).  |                |                          |          |
 |    | 26-Sep | Jupyter Notebooks                                     |                | HW4 (Jupyter)            | HW3      |
 | 6  | 1-Oct  |                                                       |                |                          |          |
 |    | 3-Oct  | Intro to object-oriented development                  |                | HW5                      | HW4, PA1     |
