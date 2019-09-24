@@ -1,3 +1,7 @@
+* **How to turn in:** create a file in your repository with the code
+* **Due date:** Sept-26
+
+
 ### Wallets
 
 You are requested to request a user of your application to provide 5 numbers representing the value in cash stored in 5 different wallets.
