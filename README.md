@@ -37,9 +37,9 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 | 5  | 24-Sep | [In Class assignment](assignments/inClassSept24.md).  |                |                          |          |
 |    | 26-Sep | Jupyter Notebooks                                     |                | HW4 (Jupyter)            | HW3      |
 | 6  | 1-Oct  |                                                       |                |                          |          |
-|    | 3-Oct  | Intro to object-oriented development                  |                | HW5                      | HW4, PA1     |
+|    | 3-Oct  | Intro to object-oriented development                  |                | HW5                      | HW4     |
 | 7  | 8-Oct  |                                                       |                |                          |          |
-|    | 10-Oct |                                                       |                |                          | HW5      |
+|    | 10-Oct |                                                       |                |                          | HW5, PA1     |
 | 8  | 15-Oct | MID TERM                                              |                |                          |          |
 |    | 17-Oct | MID TERM Delivery.                                    |                |                          |          |
 | 9  | 22-Oct | Agile development: kanban; test-driven development;   |                | HW5 (stories, TDD), PA2  |          |
