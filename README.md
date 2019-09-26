@@ -52,8 +52,8 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 |    | 14-Nov | Algorithm design and sorting/searching strategies.    |                | HW7                      |          |
 | 13 | 19-Nov |                                                       | Igor Traveling |                          |          |
 |    | 21-Nov |                                                       | Igor Traveling |                          |          |
-| 14 | 26-Nov |                                                       |                |                          |          |
+| 14 | 26-Nov |                                                       |                |                          | HW7      |
 |    | 28-Nov | THANKSGIVING                                          |                |                          |          |
-| 15 | 3-Dec  |                                                       |                |                          | HW7, PA3 |
+| 15 | 3-Dec  |                                                       |                |                          | PA3      |
 |    | 5-Dec  | Wrap up                                               |                |                          |          |
 | 16 | FINALS |                                                       |                |                          |          |
