@@ -35,11 +35,11 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 | 4  | 17-Sep | Python part 2 (files/exceptions) - ([slides](slides/Python_class2.pdf))   |                |                          |       |
 |    | 19-Sep |                                                       |                | [HW3](assignments/03_dictionary_list.md)                      | HW2          |
 | 5  | 24-Sep | [In Class assignment](assignments/inClassSept24.md).  |                |                          |          |
-|    | 26-Sep | Jupyter Notebooks                                     |                | HW4 (Jupyter)            | HW3      |
-| 6  | 1-Oct  |                                                       |                |                          |          |
-|    | 3-Oct  | Intro to object-oriented development                  |                | HW5                      | HW4     |
-| 7  | 8-Oct  |                                                       |                |                          |          |
-|    | 10-Oct |                                                       |                |                          | HW5, PA1     |
+|    | 26-Sep |                                        |              | HW4 (Jupyter)  | HW3                      |
+| 6  | 1-Oct  | Jupyter Notebooks                                     |                |                          |          |
+|    | 3-Oct  |                                                       |                | HW5                      | HW4      |
+| 7  | 8-Oct  | Intro to object-oriented development                  |                |                          | PA1      |
+|    | 10-Oct |                                                       |                |                          | HW5      |
 | 8  | 15-Oct | MID TERM                                              |                |                          |          |
 |    | 17-Oct | MID TERM Delivery.                                    |                |                          |          |
 | 9  | 22-Oct | Agile development: kanban; test-driven development;   |                | HW5 (stories, TDD), PA2  |          |
