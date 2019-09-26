@@ -29,22 +29,22 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 | 1  | 27-Aug | Hello/Intro to Programming languages                  |                |                          |          |
 |    | 29-Aug | [Git/GitHub](slides/lectureGit.pdf)                   |                | [HW1](assignments/01_git.md)|.      |
 | 2  | 3-Sep  |                                                       |                |                          |          |
-|    | 5-Sep  |[Python essentials](slides/Python_ready_set_go.pdf) | Syntax, types               |                          |          |
+|    | 5-Sep  |[Python essentials](slides/Python_ready_set_go.pdf)    | Syntax, types  |                          |          |
 | 3  | 10-Sep | Python essentials                            | Igor traveling | [PA1](assignments/pa01.md), [HW2](assignments/02_basicPython.md) |  HW1          |
-|    | 12-Sep |              | Igor traveling |                          |          |
-| 4  | 17-Sep | Python part 2 (files/exceptions) - ([slides](slides/Python_class2.pdf))   |                |                          |       |
-|    | 19-Sep |                                                       |                | [HW3](assignments/03_dictionary_list.md)                      | HW2          |
+|    | 12-Sep |                                                       | Igor traveling |                          |          |
+| 4  | 17-Sep | Python part 2 (files/exceptions) - ([slides](slides/Python_class2.pdf))| |                        |          |
+|    | 19-Sep |                                                       |                | [HW3](assignments/03_dictionary_list.md)                      | HW2        |
 | 5  | 24-Sep | [In Class assignment](assignments/inClassSept24.md).  |                |                          |          |
-|    | 26-Sep |                                        |              | HW4 (Jupyter)  | HW3                      |
-| 6  | 1-Oct  | Jupyter Notebooks                                     |                |                          |          |
-|    | 3-Oct  |                                                       |                | HW5                      | HW4      |
-| 7  | 8-Oct  | Intro to object-oriented development                  |                |                          | PA1      |
-|    | 10-Oct |                                                       |                |                          | HW5      |
-| 8  | 15-Oct | MID TERM                                              |                |                          |          |
+|    | 26-Sep |                                                       |                |                          |  HW3     |
+| 6  | 1-Oct  | Jupyter Notebooks                                     | HW4 (Jupyter)  |                          |          |
+|    | 3-Oct  |                                                       |                |                          |          |
+| 7  | 8-Oct  | Intro to object-oriented development                  |                |  HW5                     | HW4      |
+|    | 10-Oct |                                                       |                |                          | PA1      |
+| 8  | 15-Oct | MID TERM                                              |                |                          | HW5      |
 |    | 17-Oct | MID TERM Delivery.                                    |                |                          |          |
-| 9  | 22-Oct | Agile development: kanban; test-driven development;   |                | HW5 (stories, TDD), PA2  |          |
+| 9  | 22-Oct | Agile development: kanban; test-driven development;   |                | HW6 (stories, TDD), PA2  |          |
 |    | 24-Oct |                                                       |                |                          |          |
-| 10 | 29-Oct |                                                       |                |                          | HW5      |
+| 10 | 29-Oct |                                                       |                |                          | HW6      |
 |    | 31-Oct | Scrapping/webservices/Pandas                          |                | PA3, HW6                 | PA2      |
 | 11 | 5-Nov  |                                                       |                |                          |          |
 |    | 7-Nov  |                                                       |                |                          | HW6      |
