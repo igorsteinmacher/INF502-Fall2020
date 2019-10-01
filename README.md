@@ -36,7 +36,7 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 |    | 19-Sep |                                                       |                | [HW3](assignments/03_dictionary_list.md)                      | HW2        |
 | 5  | 24-Sep | [In Class assignment](assignments/inClassSept24.md).  |                |                          |          |
 |    | 26-Sep |                                                       |                |                          |  HW3     |
-| 6  | 1-Oct  | Jupyter Notebooks                                     | HW4 (Jupyter)  |                          |          |
+| 6  | 1-Oct  | Jupyter Notebooks                                     | [HW4](assignments/04_jupyter.md)  |       |          |
 |    | 3-Oct  |                                                       |                |                          |          |
 | 7  | 8-Oct  | Intro to object-oriented development                  |                |  HW5                     | HW4      |
 |    | 10-Oct |                                                       |                |                          | PA1      |
