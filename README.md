@@ -37,7 +37,7 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 | 5  | 24-Sep | [In Class assignment](assignments/inClassSept24.md).  |                |                          |          |
 |    | 26-Sep |                                                       |                |                          | HW3      |
 | 6  | 1-Oct  | [Jupyter Notebooks](slides/Jupyter.md)                |                |[HW4](assignments/04_jupyter.md)|    |
-|    | 3-Oct  |  Intro to object-oriented development                 |                |                          |          |
+|    | 3-Oct  | [Intro to object-orientation](notebooks/ObjectOrientation.ipynb) |     |                          |          |
 | 7  | 8-Oct  |                                                       |                | HW5 (will become Inclass | HW4      |
 |    | 10-Oct | InClass Assignment about OO                           |                |                          | PA1      |
 | 8  | 15-Oct | MID TERM                                              |                |                          |          |
