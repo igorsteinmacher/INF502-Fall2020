@@ -39,7 +39,7 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 | 6  | 1-Oct  | [Jupyter Notebooks](slides/Jupyter.md)                |                |[HW4](assignments/04_jupyter.md)|    |
 |    | 3-Oct  | [Intro to object-orientation](notebooks/ObjectOrientation.ipynb) |     |                          |          |
 | 7  | 8-Oct  |                                                       |                |                          | HW4      |
-|    | 10-Oct | InClass Assignment about OO (Check the last section of [this notebook]((notebooks/ObjectOrientation.ipynb))                          |                |                          | PA1      |
+|    | 10-Oct | InClass Assignment about OO (Check the last section of [this notebook](notebooks/ObjectOrientation.ipynb))                          |                |                          | PA1      |
 | 8  | 15-Oct | MID TERM                                              |                |                          |          |
 |    | 17-Oct | MID TERM Delivery.                                    |                |                          |          |
 | 9  | 22-Oct | Scrapping/webservices/Pandas                          |                | HW6, PA2                 |          |
