@@ -24,7 +24,7 @@ You are requested to (the items would help you to think step by step):
   - can be a method of the class, or a function outside. You choose.
 3. (**30%**) you should replace the attribute `species` of `ant_bait` to an object of the class `ant_species` (In the file it maps to the `speciescode` column of `ant_species`)
 
-4. (**10% extra**) To be disclosed on Thursday 
+4. (**10% extra**) Create a function that receive a collection of species (dictionary, list, tuple) and the species_code as parameters; and returns the average abundance for that species.
 
 Please provide textual explanation for your code (in markdown cells of your notebook). In case you prefer, you can keep the resulting code for each of the items in the list above.
 
