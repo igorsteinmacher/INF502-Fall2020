@@ -1,6 +1,8 @@
 ## Exploring data using Pandas
 
-![image.png](attachment:image.png)
+![Pandas](pandas.jpg)
+
+***Want the Python Notebook??*** [Get it here](./PandasKickoff.ipynb)
 
 So far we explored Python and a few native libraries. Now we will play a little to simplify our life with tools to conduct some **data analysis**.
 
