@@ -4,6 +4,8 @@
 
 ***Want the Python Notebook??*** [Get it here](./PandasKickoff.ipynb)
 
+***Look at it at nbviewer*** [Check it here](https://nbviewer.jupyter.org/github/igorsteinmacher/INF502-Fall2019/blob/master/notebooks/PandasKickoff.ipynb)
+
 So far we explored Python and a few native libraries. Now we will play a little to simplify our life with tools to conduct some **data analysis**.
 
 **Pandas** is the most popular library (so far) to import and handle data in Python.
