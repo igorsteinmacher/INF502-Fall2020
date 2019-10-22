@@ -40,13 +40,13 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 |    | 3-Oct  | [Intro to object-orientation](notebooks/ObjectOrientation.ipynb) |     |                          |          |
 | 7  | 8-Oct  |                                                       |                |                          | HW4      |
 |    | 10-Oct | [InClass Assignment about OO](assignments/inClassOct10.md) |           |                          | PA1      |
-| 8  | 15-Oct | [MID TERM](notebooks/midterm.md) .                 |                |                          |          |
-|    | 17-Oct | MID TERM Delivery                                   |                |                          |          |
-| 9  | 22-Oct | Scrapping/webservices/Pandas                          |                | HW6, PA2                 |          |
-|    | 24-Oct |                                                       |                |                          |          |
-| 10 | 29-Oct |                                                       |                |                          | HW6      |
+| 8  | 15-Oct | [MID TERM](notebooks/midterm.md) .                    |                |                          |          |
+|    | 17-Oct | MID TERM Delivery                                     |                |                          |          |
+| 9  | 22-Oct | Data analysis libraries                               |                |                          |          |
+|    | 24-Oct |                                                       |                |          HW6, PA2        |          |
+| 10 | 29-Oct |                                                       |                |                          |          |
 |    | 31-Oct |                                                       |                |                          |          |
-| 11 | 5-Nov  | Agile development: kanban; test-driven development    |                | HW7                      |          |
+| 11 | 5-Nov  | Agile development: kanban; test-driven development    |                | HW7                      |  HW6     |
 |    | 7-Nov  |                                                       |                |                          |          |
 | 12 | 12-Nov | Complexity of algorithms: just a smell                |                |                          |  HW7     |
 |    | 14-Nov | Algorithm design and sorting/searching strategies.    |                |  HW8                     |          |
