@@ -1,6 +1,6 @@
 ## Exploring data using Pandas
 
-![pandas.jpg](attachment:pandas.jpg)
+![Pandas](pandas.jpg)
 
 So far we explored Python and a few native libraries. Now we will play a little to simplify our life with tools to conduct some **data analysis**.
 
