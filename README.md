@@ -43,8 +43,8 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 | 8  | 15-Oct | [MID TERM](notebooks/midterm.md) .                    |                |                          |          |
 |    | 17-Oct | MID TERM Delivery                                     |                |                          |          |
 | 9  | 22-Oct | Data analysis libraries: Pandas ([Markdown](notebooks/PandasKickoff.md), [Notebook](notebooks/PandasKickoff.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/igorsteinmacher/INF502-Fall2019/blob/master/notebooks/PandasKickoff.ipynb))                           |                |                          |          |
-|    | 24-Oct |                                                       |                |          HW6, PA2        |          |
-| 10 | 29-Oct |                                                       |                |                          |          |
+|    | 24-Oct |                                                       |                |          HW6     |          |
+| 10 | 29-Oct |                                                       |                |     PA2                     |          |
 |    | 31-Oct |                                                       |                |                          |          |
 | 11 | 5-Nov  | Agile development: kanban; test-driven development    |                | HW7                      |  HW6     |
 |    | 7-Nov  |                                                       |                |                          |          |
@@ -54,6 +54,6 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 |    | 21-Nov |                                                       | Igor Traveling |                          |          |
 | 14 | 26-Nov |                                                       |                |                          | HW8      |
 |    | 28-Nov | THANKSGIVING                                          |                |                          |          |
-| 15 | 3-Dec  |                                                       |                |                          | PA2      |
-|    | 5-Dec  | Wrap up                                               |                |                          |          |
+| 15 | 3-Dec  |                                                       |                |                          |          |
+|    | 5-Dec  | Wrap up                                               |                |                          |PA2       |
 | 16 | FINALS |                                                       |                |                          |          |
