@@ -1,6 +1,6 @@
 ## Exploring data using Pandas
 
-![Pandas](pandas.jpg)
+![Pandas](../pandas.jpg)
 
 So far we explored Python and a few native libraries. Now we will play a little to simplify our life with tools to conduct some **data analysis**.
 
@@ -2357,127 +2357,7 @@ commits_complete.corr()
 commits_complete.corr(method='pearson').style.background_gradient(cmap='coolwarm')
 ```
 
-
-
-
-<style  type="text/css" >
-    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow0_col0 {
-            background-color:  #b40426;
-            color:  #f1f1f1;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow0_col1 {
-            background-color:  #f7ba9f;
-            color:  #000000;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow0_col2 {
-            background-color:  #6788ee;
-            color:  #000000;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow0_col3 {
-            background-color:  #f2cab5;
-            color:  #000000;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow0_col4 {
-            background-color:  #3b4cc0;
-            color:  #f1f1f1;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow1_col0 {
-            background-color:  #f7ba9f;
-            color:  #000000;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow1_col1 {
-            background-color:  #b40426;
-            color:  #f1f1f1;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow1_col2 {
-            background-color:  #88abfd;
-            color:  #000000;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow1_col3 {
-            background-color:  #f49a7b;
-            color:  #000000;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow1_col4 {
-            background-color:  #3c4ec2;
-            color:  #f1f1f1;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow2_col0 {
-            background-color:  #6c8ff1;
-            color:  #000000;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow2_col1 {
-            background-color:  #8caffe;
-            color:  #000000;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow2_col2 {
-            background-color:  #b40426;
-            color:  #f1f1f1;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow2_col3 {
-            background-color:  #ecd3c5;
-            color:  #000000;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow2_col4 {
-            background-color:  #3f53c6;
-            color:  #f1f1f1;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow3_col0 {
-            background-color:  #f2c9b4;
-            color:  #000000;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow3_col1 {
-            background-color:  #f4987a;
-            color:  #000000;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow3_col2 {
-            background-color:  #ebd3c6;
-            color:  #000000;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow3_col3 {
-            background-color:  #b40426;
-            color:  #f1f1f1;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow3_col4 {
-            background-color:  #3d50c3;
-            color:  #f1f1f1;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow4_col0 {
-            background-color:  #3b4cc0;
-            color:  #f1f1f1;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow4_col1 {
-            background-color:  #3b4cc0;
-            color:  #f1f1f1;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow4_col2 {
-            background-color:  #3b4cc0;
-            color:  #f1f1f1;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow4_col3 {
-            background-color:  #3b4cc0;
-            color:  #f1f1f1;
-        }    #T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow4_col4 {
-            background-color:  #b40426;
-            color:  #f1f1f1;
-        }</style><table id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87b" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >num_commits</th>        <th class="col_heading level0 col1" >additions</th>        <th class="col_heading level0 col2" >deletions</th>        <th class="col_heading level0 col3" >files_changed</th>        <th class="col_heading level0 col4" >num_comments</th>    </tr></thead><tbody>
-                <tr>
-                        <th id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87blevel0_row0" class="row_heading level0 row0" >num_commits</th>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow0_col0" class="data row0 col0" >1</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow0_col1" class="data row0 col1" >0.657321</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow0_col2" class="data row0 col2" >0.151074</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow0_col3" class="data row0 col3" >0.605152</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow0_col4" class="data row0 col4" >-0.00729652</td>
-            </tr>
-            <tr>
-                        <th id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87blevel0_row1" class="row_heading level0 row1" >additions</th>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow1_col0" class="data row1 col0" >0.657321</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow1_col1" class="data row1 col1" >1</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow1_col2" class="data row1 col2" >0.244859</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow1_col3" class="data row1 col3" >0.749543</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow1_col4" class="data row1 col4" >-0.00268151</td>
-            </tr>
-            <tr>
-                        <th id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87blevel0_row2" class="row_heading level0 row2" >deletions</th>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow2_col0" class="data row2 col0" >0.151074</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow2_col1" class="data row2 col1" >0.244859</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow2_col2" class="data row2 col2" >1</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow2_col3" class="data row2 col3" >0.566905</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow2_col4" class="data row2 col4" >0.0118759</td>
-            </tr>
-            <tr>
-                        <th id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87blevel0_row3" class="row_heading level0 row3" >files_changed</th>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow3_col0" class="data row3 col0" >0.605152</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow3_col1" class="data row3 col1" >0.749543</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow3_col2" class="data row3 col2" >0.566905</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow3_col3" class="data row3 col3" >1</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow3_col4" class="data row3 col4" >0.00365692</td>
-            </tr>
-            <tr>
-                        <th id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87blevel0_row4" class="row_heading level0 row4" >num_comments</th>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow4_col0" class="data row4 col0" >-0.00729652</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow4_col1" class="data row4 col1" >-0.00268151</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow4_col2" class="data row4 col2" >0.0118759</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow4_col3" class="data row4 col3" >0.00365692</td>
-                        <td id="T_cf1fa96e_f676_11e9_99a4_3af9d378f87brow4_col4" class="data row4 col4" >1</td>
-            </tr>
-    </tbody></table>
+**Check the result somewhere else**
 
 
 
