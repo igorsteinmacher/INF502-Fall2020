@@ -42,7 +42,7 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 |    | 10-Oct | [InClass Assignment about OO](assignments/inClassOct10.md) |           |                          | PA1      |
 | 8  | 15-Oct | [MID TERM](notebooks/midterm.md) .                    |                |                          |          |
 |    | 17-Oct | MID TERM Delivery                                     |                |                          |          |
-| 9  | 22-Oct | Data analysis libraries: Pandas ([Markdown](notebooks/PandasKickoff.md), [Notebook](notebooks/PandasKickoff.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/igorsteinmacher/INF502-Fall2019/blob/master/notebooks/PandasKickoff.ipynb))                           |                |                          |          |
+| 9  | 22-Oct | Data analysis libraries: Pandas ([Markdown](notebooks/PandasKickoff/PandasKickoff.md), [Notebook](notebooks/PandasKickoff.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/igorsteinmacher/INF502-Fall2019/blob/master/notebooks/PandasKickoff.ipynb))                           |                |                          |          |
 |    | 24-Oct |                                                       |                |   [HW6](assignments/HW6_pandas.md)     |          |
 | 10 | 29-Oct |                                                       |                |     PA2                     |          |
 |    | 31-Oct |                                                       |                |                          |          |
