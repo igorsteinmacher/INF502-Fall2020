@@ -44,7 +44,7 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 |    | 17-Oct | MID TERM Delivery                                     |                |                          |          |
 | 9  | 22-Oct | Data analysis libraries: Pandas ([Markdown](notebooks/PandasKickoff/PandasKickoff.md), [Notebook](notebooks/PandasKickoff.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/igorsteinmacher/INF502-Fall2019/blob/master/notebooks/PandasKickoff.ipynb))                           |                |                          |          |
 |    | 24-Oct |                                                       |                |   [HW6](assignments/HW6_pandas.md)     |          |
-| 10 | 29-Oct |                                                       |                |     PA2                     |          |
+| 10 | 29-Oct |  REST API data collection([Markdown](notebooks/REST_APIs.md), [Jupyter](notebooks/REST_APIs.ipynb))                                                     |                |     [PA2](assignments/PA2.md)                     |          |
 |    | 31-Oct |                                                       |                |                          |          |
 | 11 | 5-Nov  | Agile development: kanban; test-driven development    |                | HW7                      |  HW6     |
 |    | 7-Nov  |                                                       |                |                          |          |
