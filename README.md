@@ -46,8 +46,8 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 |    | 24-Oct |                                                       |                |   [HW6](assignments/HW6_pandas.md)     |          |
 | 10 | 29-Oct |  REST API data collection([Markdown](notebooks/REST_APIs.md), [Jupyter](notebooks/REST_APIs.ipynb))                                                     |                |     [PA2](assignments/PA2.md)                     |          |
 |    | 31-Oct |                                                       |                |                          |          |
-| 11 | 5-Nov  | Agile development: kanban; test-driven development    |                | HW7                      |  HW6     |
-|    | 7-Nov  |                                                       |                |                          |          |
+| 11 | 5-Nov  | Web Scraping([Markdown](notebooks/BeautifulSoup.md), [Jupyter](notebooks/REST_BeautifulSoup.ipynb))     |                | HW7                      |  HW6     |
+|    | 7-Nov  |    Agile development: kanban; test-driven development                                                   |                |                          |          |
 | 12 | 12-Nov | Complexity of algorithms: just a smell                |                |                          |  HW7     |
 |    | 14-Nov | Algorithm design and sorting/searching strategies.    |                |  HW8                     |          |
 | 13 | 19-Nov |                                                       | Igor Traveling |                          |          |
