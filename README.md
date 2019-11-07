@@ -44,16 +44,16 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 |    | 17-Oct | MID TERM Delivery                                     |                |                          |          |
 | 9  | 22-Oct | Data analysis libraries: Pandas ([Markdown](notebooks/PandasKickoff/PandasKickoff.md), [Notebook](notebooks/PandasKickoff.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/igorsteinmacher/INF502-Fall2019/blob/master/notebooks/PandasKickoff.ipynb))                           |                |                          |          |
 |    | 24-Oct |                                                       |                |   [HW6](assignments/HW6_pandas.md)     |          |
-| 10 | 29-Oct |  REST API data collection([Markdown](notebooks/REST_APIs.md), [Jupyter](notebooks/REST_APIs.ipynb))                                                     |                |     [PA2](assignments/PA2.md)                     |          |
-|    | 31-Oct |                                                       |                |                          |          |
-| 11 | 5-Nov  | Web Scraping([Markdown](notebooks/BeautifulSoup.md), [Jupyter](notebooks/REST_BeautifulSoup.ipynb))     |                | HW7                      |  HW6     |
-|    | 7-Nov  |    Agile development: kanban; test-driven development                                                   |                |                          |          |
-| 12 | 12-Nov | Complexity of algorithms: just a smell                |                |                          |  HW7     |
-|    | 14-Nov | Algorithm design and sorting/searching strategies.    |                |  HW8                     |          |
-| 13 | 19-Nov |                                                       | Igor Traveling |                          |          |
+| 10 | 29-Oct |  REST API data collection([Markdown](notebooks/REST_APIs.md), [Jupyter](notebooks/REST_APIs.ipynb))                                                     |                |     [PA2](assignments/PA2.md)                     |             |
+|    | 31-Oct |                                                       |                |                       |             |
+| 11 | 5-Nov  | Web Scraping([Markdown](notebooks/BeautifulSoup.md), [Jupyter](notebooks/REST_BeautifulSoup.ipynb))|||HW6    |
+|    | 7-Nov  | [In Class Assignment (Scraping + Pandas)](assignments/inClassNov07.md)| |                          |          |
+| 12 | 12-Nov | Algorithm design and sorting/searching strategies.    |                |                          |          |
+|    | 14-Nov |                                                       |                |                          |          |
+| 13 | 19-Nov | Agile development: kanban; test-driven development    | Igor Traveling |       HW7                |          |
 |    | 21-Nov |                                                       | Igor Traveling |                          |          |
-| 14 | 26-Nov |                                                       |                |                          | HW8      |
+| 14 | 26-Nov | Complexity: just a smell                              |                |                          |          |
 |    | 28-Nov | THANKSGIVING                                          |                |                          |          |
-| 15 | 3-Dec  |                                                       |                |                          |          |
+| 15 | 3-Dec  | PA2: last chance to work                              |                |                          | HW7      |
 |    | 5-Dec  | Wrap up                                               |                |                          |PA2       |
 | 16 | FINALS |                                                       |                |                          |          |
