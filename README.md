@@ -49,8 +49,6 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 | 11 | 5-Nov  | Web Scraping([Markdown](notebooks/BeautifulSoup.md), [Jupyter](notebooks/BeautifulSoup.ipynb))|||HW6    |
 |    | 7-Nov  | [In Class Assignment (Scraping + Pandas)](assignments/inClassNov07.md)| |                          |         |
 |    | | Solution of the inClass exercise: [notebook](assignments/Scraping_Pandas_inClass.ipynb), [markdown](assignments/Scraping_Pandas_inClass.md)| |                          |         |
-
-
 | 12 | 12-Nov | Algorithm design and sorting/searching strategies.    |                |                          |          |
 |    | 14-Nov |                                                       |                |                          |          |
 | 13 | 19-Nov | Agile development: kanban; test-driven development    | Igor Traveling |       HW7                |          |
