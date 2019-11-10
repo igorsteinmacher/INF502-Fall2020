@@ -46,8 +46,11 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 |    | 24-Oct |                                                       |                |   [HW6](assignments/HW6_pandas.md)     |          |
 | 10 | 29-Oct |  REST API data collection([Markdown](notebooks/REST_APIs.md), [Jupyter](notebooks/REST_APIs.ipynb))                                                     |                |     [PA2](assignments/PA2.md)                     |             |
 |    | 31-Oct |                                                       |                |                       |             |
-| 11 | 5-Nov  | Web Scraping([Markdown](notebooks/BeautifulSoup.md), [Jupyter](notebooks/REST_BeautifulSoup.ipynb))|||HW6    |
-|    | 7-Nov  | [In Class Assignment (Scraping + Pandas)](assignments/inClassNov07.md)| |                          |          |
+| 11 | 5-Nov  | Web Scraping([Markdown](notebooks/BeautifulSoup.md), [Jupyter](notebooks/BeautifulSoup.ipynb))|||HW6    |
+|    | 7-Nov  | [In Class Assignment (Scraping + Pandas)](assignments/inClassNov07.md)| |                          |         |
+|    | | Solution of the inClass exercise: [notebook](assignments/Scraping_Pandas_inClass.ipynb), [markdown](assignments/Scraping_Pandas_inClass.md)| |                          |         |
+
+
 | 12 | 12-Nov | Algorithm design and sorting/searching strategies.    |                |                          |          |
 |    | 14-Nov |                                                       |                |                          |          |
 | 13 | 19-Nov | Agile development: kanban; test-driven development    | Igor Traveling |       HW7                |          |
