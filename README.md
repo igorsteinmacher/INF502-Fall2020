@@ -49,12 +49,12 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 | 11 | 5-Nov  | Web Scraping([Markdown](notebooks/BeautifulSoup.md), [Jupyter](notebooks/BeautifulSoup.ipynb))|||HW6    |
 |    | 7-Nov  | [In Class Assignment (Scraping + Pandas)](assignments/inClassNov07.md)| |                          |         |
 |    | | Solution of the inClass exercise: [notebook](assignments/Scraping_Pandas_inClass.ipynb), [markdown](assignments/Scraping_Pandas_inClass.md)| |                          |         |
-| 12 | 12-Nov | Algorithm design and sorting/searching strategies.    |                |                          |          |
+| 12 | 12-Nov | Algorithm design and sorting/searching strategies. [Slides](slides/AlgorithmicStrategies.pdf) |  [HW7](assignments/HW7.md) | |          |
 |    | 14-Nov |                                                       |                |                          |          |
-| 13 | 19-Nov | Agile development: kanban; test-driven development    | Igor Traveling |       HW7                |          |
-|    | 21-Nov |                                                       | Igor Traveling |                          |          |
-| 14 | 26-Nov | Complexity: just a smell                              |                |                          |          |
+| 13 | 19-Nov |     | Igor Traveling |                       |          |
+|    | 21-Nov | Agile development: kanban; test-driven development                                                     | Igor Traveling |                          |   HW7    |
+| 14 | 26-Nov |                              |                |                          |          |
 |    | 28-Nov | THANKSGIVING                                          |                |                          |          |
-| 15 | 3-Dec  | PA2: last chance to work                              |                |                          | HW7      |
+| 15 | 3-Dec  | PA2: last chance to work                              |                |                          |       |
 |    | 5-Dec  | Wrap up                                               |                |                          |PA2       |
 | 16 | FINALS |                                                       |                |                          |          |
