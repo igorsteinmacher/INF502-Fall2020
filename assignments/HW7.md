@@ -19,9 +19,9 @@ Practical rule:
   1) we divide the largest number by the smallest number:
    48/30 = 1 (with remainder of 18)
   2) we divide 30 (the divisor of the previous division) by 18 (the rest of the previous division) and so on:
-   30/18 = 1 (with remainder of 12)
-   18/12 = 1 (with remainder of 6)
-   12/6 = 2 (exact division)
+   - 30/18 = 1 (with remainder of 12)
+   - 18/12 = 1 (with remainder of 6)
+   - 12/6 = 2 (exact division)
 3) The divisor of the exact division is 6. So the GDF of 48 and 30 is 6.
 
 Implement a "divide and conquer" algorithm that solves the GDF problem for any two positive integers A and B.
