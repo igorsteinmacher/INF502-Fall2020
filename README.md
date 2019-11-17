@@ -51,8 +51,8 @@ Work is to be submitted via BbLearn whenever not specified differently. When via
 |    | | Solution of the inClass exercise: [notebook](assignments/Scraping_Pandas_inClass.ipynb), [markdown](assignments/Scraping_Pandas_inClass.md)| |                          |         |
 | 12 | 12-Nov | Algorithm design and sorting/searching strategies. [Slides](slides/AlgorithmicStrategies.pdf) |   |[HW7](assignments/HW7.md) |          |
 |    | 14-Nov |                                                       |                |                          |          |
-| 13 | 19-Nov |     | Igor Traveling |                       |          |
-|    | 21-Nov | Agile development: kanban; test-driven development                                                     | Igor Traveling |                          |   HW7    |
+| 13 | 19-Nov | Agile development: kanban; test-driven development [slides](slides/Agile.pdf) [examples-unitteest](examples/unittest.zip)    | Igor Traveling |                       |          |
+|    | 21-Nov |                                                      | Igor Traveling |                          |   HW7    |
 | 14 | 26-Nov |                              |                |                          |          |
 |    | 28-Nov | THANKSGIVING                                          |                |                          |          |
 | 15 | 3-Dec  | PA2: last chance to work                              |                |                          |       |
