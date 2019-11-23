@@ -13,16 +13,16 @@ I hope you enjoy this assignment.
 
 ## Context
 
-We want to understand the context of GitHub. Analyzing projects and developers who contribute. 
+We want to understand the context of GitHub. Analyzing repositories and developers who contribute. 
 Your application will have to consume the [GitHub REST API version 3](https://developer.github.com/v3/), 
-to collect information about projects, pull requests, and users. 
+to collect information about the repo, pull requests, and users. 
 
 Since we are interested in the social side of software development,  we will also scrape data from their GitHub profile.
 
 The first requirement for this assignment is that you need to use object orientation to deal with the data you are collecting and analyzing.
 The easy way to do is analyzing the structure of the `json` dictionary structure. When you have nested elements, a new object *may* be necessary.
 
-So, about projects, we would like to keep the name, owner (login), description, homepage, license (can be another class), 
+So, about repositories, we would like to keep the name, owner (login), description, homepage, license (can be another class), 
 number of forks, watchers, and date_of_collection (the date you collect the data). When you request to print the object it should be like this:
 * `Owner/ProjectName: Description (# of stars)`
 
