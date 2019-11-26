@@ -41,7 +41,7 @@ Then, for each author (user) you find in the pull requests you need to keep: log
 In addition: Using the login, you are required to check if there is an account on Twitter using the same username (e.g., for me, there is a https://twitter.com/igorsteinmacher), and create a flag called has_a_twitter. 
 You are also required to *scrape* the following information from the user profile page on GitHub: 
 Number of Repositories, Number of Followers, Number of Following, Number of contributions in the last year.
-**If you have repeated users, you only need to update the number of commits**
+**If you have repeated users, you only need to update the number of pull requests**
 
 
 You need to have a function called `to_CSV` that can be reused to convert any object to a csv entry (row). 
