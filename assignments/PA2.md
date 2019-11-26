@@ -26,9 +26,9 @@ So, about repositories, we would like to keep the name, owner (login), descripti
 number of forks, watchers, and date_of_collection (the date you collect the data). When you request to print the object it should be like this:
 * `Owner/ProjectName: Description (# of stars)`
 
-Each project also needs to be related to a list of pull requests. Thus, for each project, collect the pull requests that 
+Each repository also needs to be related to a list of pull requests. Thus, for each repos, collect the pull requests that 
 are returned in the first page of a query like this:
-* `https://api.github.com/search/issues?q=is:pr+repo:jabref/jabref` (using project jabref/jabref as an example)
+* `https://api.github.com/search/issues?q=is:pr+repo:jabref/jabref` (using repository jabref/jabref as an example)
 
 For each pull request you need to keep: title, number, body, state, date of creation (created_at), 
 closing date (if the state is different than open), user, number of commits, additions, deletions, changed_files. 
@@ -40,7 +40,7 @@ you found before):
 Then, for each author (user) you find in the pull requests you need to keep: login and number of pull requests (calculated). 
 In addition: Using the login, you are required to check if there is an account on Twitter using the same username (e.g., for me, there is a https://twitter.com/igorsteinmacher), and create a flag called has_a_twitter. 
 You are also required to *scrape* the following information from the user profile page on GitHub: 
-Number of Repositories, Number of Projects, Number of Followers, Number of Following, Number of contributions in the last year.
+Number of Repositories, Number of Followers, Number of Following, Number of contributions in the last year.
 **If you have repeated users, you only need to update the number of commits**
 
 
@@ -51,42 +51,42 @@ in each of your classes with the very same name, which will return a string with
 
 
 Use this function to create/update the files as following (NO REPEATED ENTRIES):
-* when you collect data from a project, you need to add it to a CSV called `projects.csv`
-* when you collect the pull requests of a project, you need to store them in a file named after the owner and the name of project 
+* when you collect data from a repo, you need to add it to a CSV called `projects.csv`
+* when you collect the pull requests of a repo, you need to store them in a file named after the owner and the name of repo 
 (projects/owner-project.csv) 
 * when you collect data from users, you need to add it to a CSV called `users.csv` 
 
 
 ## Functions to the user
 A user may be able to:
-* request a project collection. By providing the owner and repository name, your program needs to start the collection of everything
-(project, pull request, users -- including scraped data)
-* list all projects collected
-* list all pull requests from a project (please list the projects to help the user giving an existing option)
-* list the summary of a project, containing:
+* request the system to collect data for a specific repository (from GitHub). By providing the owner and repository name, your program needs to start the collection of everything
+(repository, pull request, users -- including scraped data)
+* list all repos collected
+* list all pull requests from a repo (please list the repos to help the user giving an existing option)
+* list the summary of a repo, containing:
    - number of pull requests in `open` state
    - number of pull requests in `closed` state
    - number of users
    - date of the oldest pull requested
    - number of users with a valid twitter account
    
-* create graphics given a project:
+* create graphics given a repo:
    - boxplot comparing closed and open pull requests in terms of number of commits
    - boxplot comparing closed and open pull requests in terms of additions and deletions
    - boxplot comparing the number of changed files grouped by the author association
    - scatterplot: additions x deletions
    - histogram: number of commits per pull request
  
- * create graphics considering ALL pull requests from ALL projects:
+ * create graphics considering ALL pull requests from ALL repos:
    - line graph showing the total number of pull requests per day
    - line graph comparing number of open and closed pull requests per day
-   - bars comparing the number of users per project
+   - bars comparing the number of users per repo
    - histogram: number of commits per pull request
 
 * calculate the correlation between the data collected for a user 
 (following, followers, number of pull requests, number of contributions, etc.)
 
-* calculate the correlation between all the numeric data in the pull requests for a project
+* calculate the correlation between all the numeric data in the pull requests for a repo
 
 
  ## Tests
