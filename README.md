@@ -25,12 +25,12 @@ Everything on this schedule *is subject to change* based on how the specific stu
 | 4  |  1-Sep |                                                       | Igor traveling   |                          |          |
 |    |  3-Sep | Python part 2 - ([slides](slides/Python_class2.pdf))  | files, exceptions|                          |          |
 | 5  |  8-Sep |                                                       |                  | [HW3](assignments/03_dictionary_list.md)| HW2 |
-|    | 10-Sep | [In Class assignment](assignments/inClassSept10.md).  |                  |                          |          |
-| 6  | 15-Sep |                                                       |                  |                          | HW3      |
-|    | 17-Sep | [Jupyter Notebooks](slides/Jupyter.md)                |                  |[HW4](assignments/04_jupyter.md)|    |
+|    | 10-Sep | [Jupyter Notebooks](slides/Jupyter.md)                |                  | [HW4](assignments/04_jupyter.md)|    |
+| 6  | 15-Sep | [In Class assignment](assignments/inClassSept10.md).  |                  |                          |          |
+|    | 17-Sep |                                                       |                  |                          | HW3      |
 | 7  | 22-Sep | [Intro to object-orientation](notebooks/ObjectOrientation.ipynb) |       |                          |          |
 |    | 24-Sep |                                                       |                  |                          | HW4      |
-| 8  | 29-Sep| [InClass Assignment about OO](assignments/inClassSep29.md) |             |                          | PA1      |
+| 8  | 29-Sep | [InClass Assignment about OO](assignments/inClassSep29.md) |              |                          | PA1      |
 |    |  1-Oct | Q&A                                                   |                  |                          |          |
 | 9  |  6-Oct | MID TERM                                              |                  |                          |          |
 |    |  8-Oct | MID TERM (follow up)                                  |                  |                          |          |
