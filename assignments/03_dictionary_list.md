@@ -1,4 +1,5 @@
 * **How to turn in:** create a file in your repository with the code
+* **Name convention:** HW03_wallets.py and HW03_periodic.py
 
 ### Wallets
 
