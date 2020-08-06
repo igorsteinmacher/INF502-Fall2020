@@ -38,12 +38,12 @@ Everything on this schedule *is subject to change* based on how the specific stu
 |  | 15-Oct |  REST API data collection([Markdown](notebooks/REST_APIs.md), [Jupyter](notebooks/REST_APIs.ipynb))                                                     |                |     [PA2](assignments/PA2.md)                     |             |
 | 11   | 20-Oct |                                                       |                |                       |             |
 |  | 22-Oct  | Web Scraping([Markdown](notebooks/BeautifulSoup.md), [Jupyter](notebooks/BeautifulSoup.ipynb))|||HW6    |
-|    | 27-Oct  | [In Class Assignment (Scraping + Pandas)](assignments/inClassNov07.md)| |                          |         |
+| 12   | 27-Oct  | [In Class Assignment (Scraping + Pandas)](assignments/inClassNov07.md)| |                          |         |
 |    | 29-Oct | Solution of the inClass exercise: [notebook](assignments/Scraping_Pandas_inClass.ipynb), [markdown](assignments/Scraping_Pandas_inClass.md)| |                          |         |
-| 12 |  3-Nov | Algorithm design and sorting/searching strategies. [Slides](slides/AlgorithmicStrategies.pdf) |   |[HW7](assignments/HW7.md) |          |
+| 13 |  3-Nov | Algorithm design and sorting/searching strategies. [Slides](slides/AlgorithmicStrategies.pdf) |   |[HW7](assignments/HW7.md) |          |
 |    |  5-Nov |                                                       |                |                          |          |
-| 13 | 10-Nov | Agile development: kanban; test-driven development [slides](slides/Agile.pdf) [examples-unitteest](examples/unittest.zip)    | Igor Traveling |                       |          |
+| 14 | 10-Nov | Agile development: kanban; test-driven development [slides](slides/Agile.pdf) [examples-unitteest](examples/unittest.zip)    | Igor Traveling |                       |          |
 |    | 12-Nov |                                                      | Igor Traveling |                          |   HW7    |
-| 14 | 17-Nov |                              |                |                          |          |
+| 15 | 17-Nov |                              |                |                          |          |
 |    | 19-Nov | THANKSGIVING                                          |                |                          |          |
-| 15 | 24-Nov  | PA2: last chance to work                              |                |                          |  PA2     |
+| 16 | 24-Nov  | PA2: last chance to work                              |                |                          |  PA2     |
