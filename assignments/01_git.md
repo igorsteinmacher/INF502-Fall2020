@@ -1,7 +1,6 @@
 # Git/GitHub Assignment
 
 * **INDIVIDUAL ASSIGNMENT**
-* **Deadline**: Sept-10th 11:59PM
 * **How to submit**: For each empty grey box, please provide with an answer to the item in a document. Do the following to *submit* the **Part 1** of your assignment:
 1. Create a new repository under your GitHub account called *INF502*; 
 2. create a file called *"Assignment1.md"* and paste your answers there (tip: click on *"Raw"* at the right-top of this file to get the markdown source); 
@@ -29,18 +28,17 @@ The empty boxes
 represent the content you need to fill and post on your private repository
 
 
-1. Draw a diagram of the commits and branches in repository.
-
-    - Use `git branch` to list the branches in this repository.
-    - Use `git checkout` to explore each branch.
-    - Use `git log --decorate` to explore the structure of commits.
-
-```
-
+1. Describe what is the output of the following commands
+    -  `git branch` 
+    -  `git checkout BRANCH_NAME` (USE THE NAME OF AN EXISTING BRANCH)
+    -  `git log --decorate`
 
 ```
 
-2. Try `git log --graph --all` to see the commit tree. What do you see?
+
+```
+
+2. Try `git log --graph --all`. What do you see?
 ```
 
 
@@ -99,7 +97,7 @@ print 'hello world!'
 
 ```
    
-11. Now repeat item 9, but proceed with the manual merge (Editing B.py). All implemented methods are needed. Explain your procedure
+11. Now repeat item 9, but proceed with the manual merge (Editing B.py). All implemented functions are needed. Explain your procedure
 ```
 
 
