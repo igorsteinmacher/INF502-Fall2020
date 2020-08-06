@@ -24,12 +24,12 @@ Everything on this schedule *is subject to change* based on how the specific stu
 |    | 27-Aug | Python essentials                                     |                  | [PA1](assignments/pa01.md), [HW2](assignments/02_basicPython.md) |HW1 |
 | 4  |  1-Sep |                                                       | Igor traveling   |                          |          |
 |    |  3-Sep | Python part 2 - ([slides](slides/Python_class2.pdf))  | files, exceptions|                          |          |
-| 5  |  8-Sep |                                                       |                  | [HW3](assignments/03_dictionary_list.md)| HW2 |
-|    | 10-Sep | [Jupyter Notebooks](slides/Jupyter.md)                |                  | [HW4](assignments/04_jupyter.md)|    |
+| 5  |  8-Sep |                                                       |                  |                          | HW2 |
+|    | 10-Sep | [Jupyter Notebooks](slides/Jupyter.md)                |                  | [HW3/4](assignments/04_jupyter.md)|    |
 | 6  | 15-Sep | [In Class assignment](assignments/inClassSept10.md).  |                  |                          |          |
-|    | 17-Sep |                                                       |                  |                          | HW3      |
+|    | 17-Sep |                                                       |                  |                          |       |
 | 7  | 22-Sep | [Intro to object-orientation](notebooks/ObjectOrientation.ipynb) |       |                          |          |
-|    | 24-Sep |                                                       |                  |                          | HW4      |
+|    | 24-Sep |                                                       |                  |                          | HW3/4      |
 | 8  | 29-Sep | [InClass Assignment about OO](assignments/inClassSep29.md) |              |                          | PA1      |
 |    |  1-Oct | Q&A                                                   |                  |                          |          |
 | 9  |  6-Oct | MID TERM                                              |                  |                          |          |
