@@ -1,5 +1,20 @@
-* **How to turn in:** create a file in your repository with the code
-* **Name convention:** HW03_wallets.py and HW03_periodic.py
+## Homework 3/4: Dictionaries + Jupyter Introduction
+
+* **INDIVIDUAL ASSIGNMENT**
+* **How to submit**:  
+* - Submit your Python Notebook files* to your GitHub repository (same used for the other assignments). The files should be called *"Assignment3_Wallets.ipynb"* and *"Assignment3_PTable.ipynb"*. Each file corresponds to one of the exercises below
+  - I will evaluate the latest commit before the deadline
+
+**The assignment:**
+
+Read the descriptions below and write algorithms to solve the problems. 
+
+Please provide clear explanations using Markdown cells for each of the code in code cells. Also, break your code in ways that each code block can be explained as an atomic piece. Functions should be in a single box. 
+
+Remember to provide the code chunks in a way that if one executes it top-down everything will work.
+
+I hope you all have fun with this :-)
+
 
 ### Wallets
 
