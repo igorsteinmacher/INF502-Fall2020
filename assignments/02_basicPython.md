@@ -1,7 +1,6 @@
 # Assignment 2: Python Basics
 
 * **INDIVIDUAL ASSIGNMENT**
-* **Deadline**: Sept-19th 11:59PM
 * **How to submit**: For each item, provide an answer as requested in the item (usually the source code + explanations + iteractive shell output)
   - In your GitHub repository called *INF502* (same used for the Assignment 1) create a file called *"Assignment2.md"* with your answers (I will allow the answer in PDF format for those who prefer, but I strongly encourage using Markdown.)
   Remember to invite me to see your new repository (if you did not for Assignment 1). 
