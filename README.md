@@ -30,7 +30,7 @@ Everything on this schedule *is subject to change* based on how the specific stu
 |    | 17-Sep | [In Class assignment](assignments/inClassSept10.md)   |                  |                          |          |
 | 7  | 22-Sep | [Intro to object-orientation](notebooks/ObjectOrientation.ipynb) |       |                          |          |
 |    | 24-Sep |                                                       |                  |                          | HW3/4    |
-| 8  | 29-Sep | [InClass Assignment about OO](assignments/inClassSep29.md) |             |                          |          |
+| 8  | 29-Sep | [InClass Assignment about OO](assignments/inClassSept29.md) |             |                          |          |
 |    |  1-Oct | Q&A                                                   |                  |                          |   PA1    |
 | 9  |  6-Oct | MID TERM                                              |                  |                          |          |
 |    |  8-Oct | MID TERM (follow up)                                  |                  |                          |          |
