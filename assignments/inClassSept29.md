@@ -1,6 +1,6 @@
 ### In Class Assignment!!! ###
 
-**How to Turn In:** Create a Python Notebook on your repository named `InClassOct10.ipynb`
+**How to Turn In:** Create a Python Notebook on your repository named `InClassSep29.ipynb`
 
 **Deadline:** Today
 
