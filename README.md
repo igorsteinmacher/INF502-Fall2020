@@ -34,15 +34,15 @@ Everything on this schedule *is subject to change* based on how the specific stu
 |    |  1-Oct | Q&A                                                   |                  |                          |          |
 | 9  |  6-Oct | MID TERM                                              |                  |                          |          |
 |    |  8-Oct | MID TERM (follow up)                                  |                  |                          |          |
-| 10 | 13-Oct | Data analysis libraries: Pandas ([Markdown](notebooks/PandasKickoff/PandasKickoff.md), [Notebook](notebooks/PandasKickoff.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/igorsteinmacher/INF502-Fall2019/blob/master/notebooks/PandasKickoff.ipynb)) |   |[HW6](assignments/HW6_pandas.md)|    |
-|    | 15-Oct | REST API data collection([Markdown](notebooks/REST_APIs.md), [Jupyter](notebooks/REST_APIs.ipynb))||[PA2](assignments/PA2.md) ||
-| 11 | 20-Oct |                                                       |                  |                         |           |
-|    | 22-Oct | Web Scraping([Markdown](notebooks/BeautifulSoup.md), [Jupyter](notebooks/BeautifulSoup.ipynb))   |||HW6    |
-| 12 | 27-Oct | [In Class Assignment (Scraping + Pandas)](assignments/inClassNov07.md)|  |                          |          |
-|    | 29-Oct | Solution of the exercise: [notebook](assignments/Scraping_Pandas_inClass.ipynb), [markdown](assignments/Scraping_Pandas_inClass.md)| | | |
-| 13 |  3-Nov | Algorithm design and sorting/searching strategies. [Slides](slides/AlgorithmicStrategies.pdf) |[HW7](assignments/HW7.md)| |
-|    |  5-Nov |                                                       |                |                           |           |
-| 14 | 10-Nov | Agile development: kanban; test-driven development [slides](slides/Agile.pdf) [examples-unitteest](examples/unittest.zip)    | | ||
+| 10 | 13-Oct | Agile development: kanban; test-driven development [slides](slides/Agile.pdf) [examples-unitteest](examples/unittest.zip)|  |
+|    | 15-Oct | In-class exercise (Test)                              |                  |                          |          |
+| 10 | 20-Oct | Data analysis libraries: Pandas ([Markdown](notebooks/PandasKickoff/PandasKickoff.md), [Notebook](notebooks/PandasKickoff.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/igorsteinmacher/INF502-Fall2019/blob/master/notebooks/PandasKickoff.ipynb)) |   |[HW6](assignments/HW6_pandas.md)|    |
+|    | 22-Oct | REST API data collection([Markdown](notebooks/REST_APIs.md), [Jupyter](notebooks/REST_APIs.ipynb))||[PA2](assignments/PA2.md) ||
+| 11 | 27-Oct |                                                       |                  |                         |           |
+|    | 29-Oct | Web Scraping([Markdown](notebooks/BeautifulSoup.md), [Jupyter](notebooks/BeautifulSoup.ipynb))  || | HW6       |
+| 12 |  3-Nov | [In Class Assignment (Scraping + Pandas)](assignments/inClassNov07.md)|  |                          |          |
+|    |  5-Nov | Solution of the exercise: [notebook](assignments/Scraping_Pandas_inClass.ipynb), [markdown](assignments/Scraping_Pandas_inClass.md)| | | |
+| 13 | 10-Nov | Algorithm design and sorting/searching strategies. [Slides](slides/AlgorithmicStrategies.pdf) |[HW7](assignments/HW7.md)| |
 |    | 12-Nov |                                                       |                  |                          |   HW7    |
 | 15 | 17-Nov | PA2 presentation                                      |                  |                          |    PA2   |
 |    | 19-Nov | PA2 presentation                                      |                  |                          |          |
