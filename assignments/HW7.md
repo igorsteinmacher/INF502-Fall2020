@@ -1,7 +1,6 @@
 ## Divide and conquer assignment
 
 * **Individual Assignment**
-* **Due:** Nov 21
 * **Filename convention:** HW7.ipynb 
 
 
