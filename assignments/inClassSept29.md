@@ -2,7 +2,7 @@
 
 **How to Turn In:** Create a Python Notebook on your repository named `InClassOct10.ipynb`
 
-**Deadline:** Today (Oct-10)
+**Deadline:** Today
 
 We want to manage our movie collection. To do so, we need to write a program that helps us. You need to use OO design and follow the constraints below:
 
