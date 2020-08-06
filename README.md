@@ -25,12 +25,12 @@ Everything on this schedule *is subject to change* based on how the specific stu
 | 4  |  1-Sep |                                                       | Igor traveling   |                          |          |
 |    |  3-Sep | Python part 2 - ([slides](slides/Python_class2.pdf))  | files, exceptions|                          |          |
 | 5  |  8-Sep |                                                       |                  | [HW3](assignments/03_dictionary_list.md)| HW2 |
-|    | 10-Sep | [In Class assignment](assignments/inClassSept24.md).  |                  |                          |          |
+|    | 10-Sep | [In Class assignment](assignments/inClassSept10.md).  |                  |                          |          |
 | 6  | 15-Sep |                                                       |                  |                          | HW3      |
 |    | 17-Sep | [Jupyter Notebooks](slides/Jupyter.md)                |                  |[HW4](assignments/04_jupyter.md)|    |
 | 7  | 22-Sep | [Intro to object-orientation](notebooks/ObjectOrientation.ipynb) |       |                          |          |
 |    | 24-Sep |                                                       |                  |                          | HW4      |
-| 8  |  29-Sep| [InClass Assignment about OO](assignments/inClassOct10.md) |             |                          | PA1      |
+| 8  | 29-Sep| [InClass Assignment about OO](assignments/inClassSep29.md) |             |                          | PA1      |
 |    |  1-Oct | Q&A                                                   |                  |                          |          |
 | 9  |  6-Oct | MID TERM                                              |                  |                          |          |
 |    |  8-Oct | MID TERM (follow up)                                  |                  |                          |          |
@@ -40,9 +40,9 @@ Everything on this schedule *is subject to change* based on how the specific stu
 |    | 22-Oct | REST API data collection([Markdown](notebooks/REST_APIs.md), [Jupyter](notebooks/REST_APIs.ipynb))||[PA2](assignments/PA2.md) ||
 | 11 | 27-Oct |                                                       |                  |                         |           |
 |    | 29-Oct | Web Scraping([Markdown](notebooks/BeautifulSoup.md), [Jupyter](notebooks/BeautifulSoup.ipynb))  || | HW6       |
-| 12 |  3-Nov | [In Class Assignment (Scraping + Pandas)](assignments/inClassNov07.md)|  |                          |          |
+| 12 |  3-Nov | [In Class Assignment (Scraping + Pandas)](assignments/inClassNov03.md)|  |                          |          |
 |    |  5-Nov | Solution of the exercise: [notebook](assignments/Scraping_Pandas_inClass.ipynb), [markdown](assignments/Scraping_Pandas_inClass.md)| | | |
-| 13 | 10-Nov | Algorithm design and sorting/searching strategies. [Slides](slides/AlgorithmicStrategies.pdf) |[HW7](assignments/HW7.md)| |
+| 13 | 10-Nov | (TO DECIDE) Algorithm design and sorting/searching strategies. [Slides](slides/AlgorithmicStrategies.pdf) |[HW7](assignments/HW7.md)| |
 |    | 12-Nov |                                                       |                  |                          |   HW7    |
 | 15 | 17-Nov | PA2 presentation                                      |                  |                          |    PA2   |
 |    | 19-Nov | PA2 presentation                                      |                  |                          |          |
