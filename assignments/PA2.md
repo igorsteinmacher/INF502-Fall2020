@@ -1,8 +1,6 @@
 # Programming Assignment 2
 
-DUE DATE: DEC-5
-
-You can arrange yourselves in groups of 2 or 3 students.
+You can arrange yourselves in groups of 3 or 4 students.
 
 This assignment will give you some practice with writing complete applications that deal with data collection and analysis in Python structures.
 The focus will be on using all the knowledge acquired in this course, from basic Python to Pandas, usign json, creating graphics, etc.
@@ -24,7 +22,7 @@ The easy way to do is analyzing the structure of the `json` dictionary structure
 
 So, about repositories, we would like to keep the name, owner (login), description, homepage, license (can be another class), 
 number of forks, watchers, and date_of_collection (the date you collect the data). When you request to print the object it should be like this:
-* `Owner/ProjectName: Description (# of stars)`
+* `Owner/RepositoryName: Description (# of stars)`
 
 Each repository also needs to be related to a list of pull requests. Thus, for each repos, collect the pull requests that 
 are returned in the first page of a query like this:
@@ -51,9 +49,9 @@ in each of your classes with the very same name, which will return a string with
 
 
 Use this function to create/update the files as following (NO REPEATED ENTRIES):
-* when you collect data from a repo, you need to add it to a CSV called `projects.csv`
+* when you collect data from a repo, you need to add it to a CSV called `repos.csv`
 * when you collect the pull requests of a repo, you need to store them in a file named after the owner and the name of repo 
-(projects/owner-project.csv) 
+(repos/owner-repo.csv) 
 * when you collect data from users, you need to add it to a CSV called `users.csv` 
 
 
@@ -75,22 +73,17 @@ A user may be able to:
    - boxplot comparing closed and open pull requests in terms of additions and deletions
    - boxplot comparing the number of changed files grouped by the author association
    - scatterplot: additions x deletions
-   - histogram: number of commits per pull request
  
  * create graphics considering ALL pull requests from ALL repos:
    - line graph showing the total number of pull requests per day
    - line graph comparing number of open and closed pull requests per day
    - bars comparing the number of users per repo
-   - histogram: number of commits per pull request
 
 * calculate the correlation between the data collected for a user 
 (following, followers, number of pull requests, number of contributions, etc.)
 
 * calculate the correlation between all the numeric data in the pull requests for a repo
 
-
  ## Tests
  You need to write at least 5 unit tests 
     
-   
-   
