@@ -1,7 +1,6 @@
 # Assignment 4: Jupyter Introduction
 
 * **INDIVIDUAL ASSIGNMENT**
-* **Deadline**: Oct-8th 11:59PM
 * **How to submit**: 
   - Submit your Python Notebook files to your GitHub repository (same used for the other assignments). The files should be called *"Assignment4_Wallets.ipynb"* and *"Assignment4_PTable.ipynb"*. You will work on top of your previous Assignment ([HW3](03_dictionary_list.md)), and each file corresponds to one of the exercises on that HW.
   - I will evaluate the latest commit before 11:59PM (Oct-8th)
