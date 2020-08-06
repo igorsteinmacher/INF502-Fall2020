@@ -1,6 +1,4 @@
 * **How to turn in:** create a file in your repository with the code
-* **Due date:** Sept-26
-
 
 ### Wallets
 
