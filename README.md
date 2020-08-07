@@ -10,7 +10,7 @@ Course content for the Fall 2020 offering of INF 502 at Northern Arizona Univers
 
 ## Syllabus
 
-[Download Fall 2019 syllabus here](documents/INF502_Syllabus_Steinmacher.pdf)
+[Download Fall 2020 syllabus here](documents/INF502_Syllabus_Steinmacher.pdf)
 
 ## Course Schedule
 Everything on this schedule *is subject to change* based on how the specific student and course needs that emerge. Please **stay tuned for changes and assignments that will appear here** as the course progresses.
