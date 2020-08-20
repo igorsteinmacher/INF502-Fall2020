@@ -19,9 +19,9 @@ Everything on this schedule *is subject to change* based on how the specific stu
 |----|--------|-------------------------------------------------------|------------------|--------------------------|----------|
 | 1  | 13-Aug | Hello/Intro to Programming languages                  |                  |                          |          |
 | 2  | 18-Aug | [Python essentials](slides/Python_ready_set_go.pdf)   |                  |                          |          |
-|    | 20-Aug |  Python essentials                                    |                  |||
+|    | 20-Aug |  Python essentials                                    |                  | [HW1](assignments/01_basicPython.md) ||
 | 3  | 25-Aug |                                                       |                  | [PA1](assignments/pa01.md)|                                   |
-|    | 27-Aug | [Git/GitHub](slides/lectureGit.pdf)                   |                  | [HW1](assignments/02_git.md)                    |  |
+|    | 27-Aug | [Git/GitHub](slides/lectureGit.pdf)                   |                  | [HW2](assignments/02_git.md)                    |  |
 | 4  |  1-Sep |                                                       |                  |                          | HW1         |
 |    |  3-Sep | Python part 2 - ([slides](slides/Python_class2.pdf))  | files, exceptions|                          |         |
 | 5  |  8-Sep |                                                       |                  |                          | HW2 |
