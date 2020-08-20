@@ -18,19 +18,19 @@ Everything on this schedule *is subject to change* based on how the specific stu
 |Week|Date.   | Content (tentative)                                   | Comments.        | Assignments out          | Deadline |
 |----|--------|-------------------------------------------------------|------------------|--------------------------|----------|
 | 1  | 13-Aug | Hello/Intro to Programming languages                  |                  |                          |          |
-| 2  | 18-Aug | [Git/GitHub](slides/lectureGit.pdf)                   |                  | [HW1](assignments/01_git.md)|       |
-|    | 20-Aug |                                                       |                  |                          |          |
-| 3  | 25-Aug |[Python essentials](slides/Python_ready_set_go.pdf)    | Syntax, types    |                          |          |
-|    | 27-Aug | Python essentials                                     |                  | [PA1](assignments/pa01.md), [HW2](assignments/02_basicPython.md) |HW1 |
-| 4  |  1-Sep |                                                       | Igor traveling   |                          |          |
-|    |  3-Sep | Python part 2 - ([slides](slides/Python_class2.pdf))  | files, exceptions|                          |          |
-| 5  |  8-Sep |                                                       |                  |                          | HW2 |
-|    | 10-Sep | [Jupyter Notebooks](slides/Jupyter.md)                |                  | [HW3/4](assignments/03_dictionary_list.md)|    |
+| 2  | 18-Aug | [Python essentials](slides/Python_ready_set_go.pdf)   |                  |                          |          |
+|    | 20-Aug |  Python essentials                                    |                  |[HW1](assignments/02_basicPython.md)||
+| 3  | 25-Aug | [Git/GitHub](slides/lectureGit.pdf)                   |                  | [HW2](assignments/01_git.md)|       |
+|    | 27-Aug |                                                       |                  | [PA1](assignments/pa01.md)  | HW1 |
+| 4  |  1-Sep |                                                       |                  |                          |          |
+|    |  3-Sep | Python part 2 - ([slides](slides/Python_class2.pdf))  | files, exceptions|                          | HW2      |
+| 5  |  8-Sep |                                                       |                  |                          |  |
+|    | 10-Sep | [Jupyter Notebooks](slides/Jupyter.md)                |                  |[HW3/4](assignments/03_dictionary_list.md)|    |
 | 6  | 15-Sep |                                                       |                  |                          |          |
 |    | 17-Sep | [In Class assignment](assignments/inClassSept10.md)   |                  |                          |          |
 | 7  | 22-Sep | [Intro to object-orientation](notebooks/ObjectOrientation.ipynb) |       |                          |          |
 |    | 24-Sep |                                                       |                  |                          | HW3/4    |
-| 8  | 29-Sep | [InClass Assignment about OO](assignments/inClassSept29.md) |             |                          |          |
+| 8  | 29-Sep | [InClass Assignment about OO](assignments/inClassSept29.md) |            |                          |          |
 |    |  1-Oct | Q&A                                                   |                  |                          |   PA1    |
 | 9  |  6-Oct | MID TERM                                              |                  |                          |          |
 |    |  8-Oct | MID TERM (follow up)                                  |                  |                          |          |
