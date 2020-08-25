@@ -3,9 +3,13 @@
 * **INDIVIDUAL ASSIGNMENT**
 * **Deadline:** Sept-01
 * **How to submit**: For each item, provide an answer as requested in the item (usually the source code + explanations + iteractive shell output)
-  - In your GitHub repository called *INF502*  create a file called *"Assignment1.md"* with your answers (I will allow the answer in PDF format for those who prefer, but I strongly encourage using Markdown.)
-  Remember to invite me to see your new repository (if you did not for Assignment 1). 
+1. Create a new repository under your GitHub account called *INF502*; 
+2. Create a file called *"Assignment1.md"* and paste your answers there (tip: click on *"Raw"* at the right-top of this file to get the markdown source); 
+3. invite me to see your new repository. This will allow you to keep a private repository that only you and me will be able to see
+
   - I will evaluate the latest commit before the deadline
+
+* **How to submit**: For each empty grey box, please provide with an answer to the item in a document. Do the following to *submit* the **Part 1** of your assignment:
 
 **1. Write a function with the following signature:** `pythagoreanTheorem(length_a, length_b)`.
 
