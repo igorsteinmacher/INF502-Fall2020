@@ -9,8 +9,6 @@
 
   - I will evaluate the latest commit before the deadline
 
-* **How to submit**: For each empty grey box, please provide with an answer to the item in a document. Do the following to *submit* the **Part 1** of your assignment:
-
 **1. Write a function with the following signature:** `pythagoreanTheorem(length_a, length_b)`.
 
 The function returns the length of the hypotenuse assuming that `length_a` and `length_b` are the lengths of the two legs of a right triangle (the legs that form the triangle's right angle). Hint: the `math` module might have useful functions to use.
