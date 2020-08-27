@@ -21,12 +21,12 @@ Everything on this schedule *is subject to change* based on how the specific stu
 | 2  | 18-Aug | [Python essentials](slides/Python_ready_set_go.pdf)   |                  |                          |          |
 |    | 20-Aug |  Python essentials                                    |                  | [HW1](assignments/01_basicPython.md) ||
 | 3  | 25-Aug |                                                       |                  | [PA1](assignments/pa01.md)|                                   |
-|    | 27-Aug | [Git/GitHub](slides/lectureGit.pdf)                   |                  | [HW2](assignments/02_git.md)                    |  |
-| 4  |  1-Sep |                                                       |                  |                          | HW1         |
-|    |  3-Sep | Python part 2 - ([slides](slides/Python_class2.pdf))  | files, exceptions|                          |         |
-| 5  |  8-Sep |                                                       |                  |                          | HW2 |
-|    | 10-Sep | [Jupyter Notebooks](slides/Jupyter.md)                |                  |[HW3/4](assignments/03_dictionary_list.md)|    |
-| 6  | 15-Sep |                                                       |                  |                          |          |
+|    | 27-Aug |                           |                  |                    |  |
+| 4  |  1-Sep | [Git/GitHub](slides/lectureGit.pdf)                   |                  |[HW2](assignments/02_git.md)                           | HW1         |
+|    |  3-Sep |                                                       |                          |         |
+| 5  |  8-Sep | Python part 2 - ([slides](slides/Python_class2.pdf))  | files, exceptions|                          |        HW2 |
+|    | 10-Sep |                |                  |[HW3/4](assignments/03_dictionary_list.md)|    |
+| 6  | 15-Sep | [Jupyter Notebooks](slides/Jupyter.md)                |                  |                          |          |
 |    | 17-Sep | [In Class assignment](assignments/inClassSept10.md)   |                  |                          |          |
 | 7  | 22-Sep | [Intro to object-orientation](notebooks/ObjectOrientation.ipynb) |       |                          |          |
 |    | 24-Sep |                                                       |                  |                          | HW3/4    |
