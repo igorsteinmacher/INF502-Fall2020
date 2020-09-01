@@ -31,9 +31,9 @@ Everything on this schedule *is subject to change* based on how the specific stu
 | 7  | 22-Sep | [Intro to object-orientation](notebooks/ObjectOrientation.ipynb) |       |                          |          |
 |    | 24-Sep |                                                       |                  |                          | HW3/4    |
 | 8  | 29-Sep | [InClass Assignment about OO](assignments/inClassSept29.md) |            |                          |          |
-|    |  1-Oct | Q&A                                                   |                  |                          |   PA1    |
+|    |  1-Oct | Q&A                                                   |                  |                          |          |
 | 9  |  6-Oct | MID TERM                                              |                  |                          |          |
-|    |  8-Oct | MID TERM (follow up)                                  |                  |                          |          |
+|    |  8-Oct | MID TERM (follow up)                                  |                  |                          |   PA1    |
 | 10 | 13-Oct | Agile development: kanban; test-driven development [slides](slides/Agile.pdf) [examples-unitteest](examples/unittest.zip)|  |
 |    | 15-Oct | In-class exercise (Test)                              |                  |                          |          |
 | 10 | 20-Oct | Data analysis libraries: Pandas ([Markdown](notebooks/PandasKickoff/PandasKickoff.md), [Notebook](notebooks/PandasKickoff.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/igorsteinmacher/INF502-Fall2019/blob/master/notebooks/PandasKickoff.ipynb)) |   |[HW6](assignments/HW6_pandas.md)|    |
