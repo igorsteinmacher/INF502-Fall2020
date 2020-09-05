@@ -61,7 +61,7 @@ represent the content you need to fill and post on your private repository
 
 
 5. Write a command (or sequence) to (i) create a new branch called `math` (from the `master`) 
-and (ii) change to this branch
+and (ii) change to this branch (yes, `math` is already there, just report what you've done, the error and the reason you got the error. If you deleted and recreated the branch, you are fine too)
 
 ```
 
