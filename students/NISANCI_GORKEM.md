@@ -14,4 +14,4 @@ long development time because hands-on testing the result is crucial.
 
 3. Masking and TI implementation can protect the CPU against power side channel attacks. 
 
-https://doi.org/10.1145/3316781.3323485
+[link to the paper online](https://doi.org/10.1145/3316781.3323485)
