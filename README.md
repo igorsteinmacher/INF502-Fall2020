@@ -23,9 +23,9 @@ Everything on this schedule *is subject to change* based on how the specific stu
 | 3  | 25-Aug |                                                       |                  | [PA1](assignments/pa01.md)|                                   |
 |    | 27-Aug |                           |                  |                    |  |
 | 4  |  1-Sep | [Git/GitHub](slides/lectureGit.pdf)                   |                  |[HW2](assignments/02_git.md)                           | HW1         |
-|    |  3-Sep |                                                       |                          |         |
+|    |  3-Sep | Resources to learn more about Git: https://learngitbranching.js.org/ <br> [Git cheat sheet](https://ndpsoftware.com/git-cheatsheet.html)                                                     |                          |         |
 | 5  |  8-Sep | Python part 2 - ([slides](slides/Python_class2.pdf))  | files, exceptions|                          |        HW2 |
-|    | 10-Sep |                |                  |[HW3/4](assignments/03_dictionary_list.md)|    |
+|    | 10-Sep |               |                  |[HW3/4](assignments/03_dictionary_list.md)|    |
 | 6  | 15-Sep | [Jupyter Notebooks](slides/Jupyter.md)                |                  |                          |          |
 |    | 17-Sep | [In Class assignment](assignments/inClassSept10.md)   |                  |                          |          |
 | 7  | 22-Sep | [Intro to object-orientation](notebooks/ObjectOrientation.ipynb) |       |                          |          |
