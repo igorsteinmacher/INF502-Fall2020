@@ -9,4 +9,4 @@
                           -- Study the drawbacks of previous algorithms.
                           -- Delivery good quality schedules with lower costs.
          
-* **link:**  (https://ieeexplore.ieee.org/document/993206)
+* **link:**  https://ieeexplore.ieee.org/document/993206
