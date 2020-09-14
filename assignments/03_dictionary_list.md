@@ -1,6 +1,7 @@
 ## Homework 3/4: Dictionaries + Jupyter Introduction
 
 * **INDIVIDUAL ASSIGNMENT**
+* **Deadline:** Sept-24th
 * **How to submit**:  
 * - Submit your Python Notebook files* to your GitHub repository (same used for the other assignments). The files should be called *"Assignment3_Wallets.ipynb"* and *"Assignment3_PTable.ipynb"*. Each file corresponds to one of the exercises below
   - I will evaluate the latest commit before the deadline
