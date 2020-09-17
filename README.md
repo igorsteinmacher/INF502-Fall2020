@@ -25,7 +25,7 @@ Everything on this schedule *is subject to change* based on how the specific stu
 | 4  |  1-Sep | [Git/GitHub](slides/lectureGit.pdf)                   |                  |[HW2](assignments/02_git.md)                           | HW1         |
 |    |  3-Sep | Resources to learn more about Git: https://learngitbranching.js.org/ <br> [Git cheat sheet](https://ndpsoftware.com/git-cheatsheet.html)                                                     |                          |         |
 | 5  |  8-Sep |     |    |                          |        HW2 |
-|    | 10-Sep | Python part 2 - ([slides](slides/Python_class2.pdf))  | files, exceptions                |[HW3/4](assignments/03_dictionary_list.md)|    |
+|    | 10-Sep | Python part 2 - ([slides](slides/Python_class2.pdf)) <br>- [File Examples](documents/FileExamples.zip)  | files, exceptions               |[HW3/4](assignments/03_dictionary_list.md)|    |
 | 6  | 15-Sep |                |                  | * Python exercises:<br> - https://www.practicepython.org/ <br>-  https://holypython.com/beginner-python-exercises/  |       |
 |    | 17-Sep | [Jupyter Notebooks](slides/Jupyter.md)    |                  |                          |          |
 | 7  | 22-Sep | [Intro to object-orientation](notebooks/ObjectOrientation.ipynb) |       |                          |          |
