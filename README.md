@@ -31,7 +31,7 @@ Everything on this schedule *is subject to change* based on how the specific stu
 | 7  | 22-Sep | [Intro to object-orientation](notebooks/ObjectOrientation.ipynb) |       |                          |          |
 |    | 24-Sep |                                                       |                  |                          | HW3/4    |
 | 8  | 29-Sep | [InClass Assignment about OO](assignments/inClassSept29.md) |            |                          |          |
-|    |  1-Oct | Q&A                                                   |                  |                          |          |
+|    |  1-Oct | [InClass Assignment about OO](assignments/inClassSept29.md) - NO MEETING                                         |                  |                          |          |
 | 9  |  6-Oct | MID TERM                                              |                  |                          |          |
 |    |  8-Oct | MID TERM (follow up)                                  |                  |                          |   PA1    |
 | 10 | 13-Oct | Agile development: kanban; test-driven development [slides](slides/Agile.pdf) [examples-unitteest](examples/unittest.zip)|  |
