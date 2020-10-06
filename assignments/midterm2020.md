@@ -173,7 +173,7 @@ address, phone, dob
 
 **7.**   **Mandatory exercise (13%):**
 
-Please consider this CSV file [ant_species.csv](https://github.com/igorsteinmacher/INF502-Fall2019/blob/master/notebooks/ant_species.csv) This data is part of the [census of the ant community](https://github.com/weecology/PortalData/tree/master/Ants) occurred every year (1977-2009) over a two week period during July after the summer monsoons have begun. You are required to:
+Please consider this CSV file [ant_species.csv](https://github.com/igorsteinmacher/INF502-Fall2020/blob/master/notebooks/ant_species.csv) This data is part of the [census of the ant community](https://github.com/weecology/PortalData/tree/master/Ants) occurred every year (1977-2009) over a two week period during July after the summer monsoons have begun. You are required to:
 
 * map the CSV structure to a class in Python
 * provide with a constructor method receiving all the attributes as parameter
