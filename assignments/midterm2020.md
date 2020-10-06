@@ -87,7 +87,7 @@ a. Wikipedia has a list of the tallest mountains in the world [1] , with each mo
    * Create a function that receives the dictionary as a parameter and prints out just the mountains' names and elevations, as a series of statements telling how tall each mountain is: *"Everest is 8848 m tall."*
    * Create a function that receives the dictionary and the name of a mountain, and removes it (please treat the exception triggered when a mountain is not found)
    * Create a function to list the top 2 mountains
-      [1] https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth
+<br>[1] https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth
 
  
 
