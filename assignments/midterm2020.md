@@ -21,7 +21,7 @@
 a. Write a program that asks the user to type an integer and outputs the number with the digits reversed. (for the input 12689, the output is 98621).
 
 b. Write a program to calculate the following series, given the “n” input by the user. 
- ![img](images/clip_image002.png)
+ <br/>![img](images/clip_image002.png)
 
  c. Write a function that tests whether a string is a palindrome or not. 
 
