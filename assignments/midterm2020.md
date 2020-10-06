@@ -178,5 +178,5 @@ Please consider this CSV file [ant_species.csv](https://github.com/igorsteinmach
 * map the CSV structure to a class in Python
 * provide with a constructor method receiving all the attributes as parameter
 * create a method that enables someone to print the objects
-- "genus species (e.g.,      Camponotus festinatus
-* create a function (outside of the    class, which will call the constructor) that receives the file and creates     objects for each row of the file
+  - "genus species" (e.g., Camponotus festinatus)
+* create a function (outside of the class, which will call the constructor) that receives the file and creates objects for each row of the file
