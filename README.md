@@ -42,8 +42,8 @@ Everything on this schedule *is subject to change* based on how the specific stu
 |    | 29-Oct | Web Scraping([Markdown](notebooks/BeautifulSoup.md), [Jupyter](notebooks/BeautifulSoup.ipynb))  || | HW6       |
 | 12 |  3-Nov | [In Class Assignment (Scraping + Pandas)](assignments/inClassNov03.md)|  |                          |          |
 |    |  5-Nov | Solution of the exercise: [notebook](assignments/Scraping_Pandas_inClass.ipynb), [markdown](assignments/Scraping_Pandas_inClass.md)| | | |
-| 13 | 10-Nov | (TO DECIDE) Algorithm design and sorting/searching strategies. [Slides](slides/AlgorithmicStrategies.pdf) |[HW7](assignments/HW7.md)| |
-|    | 12-Nov |                                                       |                  |                          |   HW7    |
+| 13 | 10-Nov | PA2 -- Time to Work!  |
+|    | 12-Nov | PA2 -- Time to Work!                                  |                  |                          |       |
 | 15 | 17-Nov | PA2 presentation                                      |                  |                          |    PA2   |
 |    | 19-Nov | PA2 presentation                                      |                  |                          |          |
 | 16 | 24-Nov | HAVE A WONDERFUL BREAK!                               |                  |                          |          |
