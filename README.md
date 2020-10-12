@@ -41,7 +41,7 @@ Everything on this schedule *is subject to change* based on how the specific stu
 | 11 | 27-Oct |                                                       |                  |                         |           |
 |    | 29-Oct | Web Scraping([Markdown](notebooks/BeautifulSoup.md), [Jupyter](notebooks/BeautifulSoup.ipynb))  || | HW6       |
 | 12 |  3-Nov | [In Class Assignment (Scraping + Pandas)](assignments/inClassNov03.md)|  |                          |          |
-|    |  5-Nov | Solution of the exercise: [notebook](assignments/Scraping_Pandas_inClass.ipynb), [markdown](assignments/Scraping_Pandas_inClass.md)| | | |
+|    |  5-Nov | Assignment Discussion| | | |
 | 13 | 10-Nov | PA2 -- Time to Work!  |
 |    | 12-Nov | PA2 -- Time to Work!                                  |                  |                          |       |
 | 15 | 17-Nov | PA2 presentation                                      |                  |                          |    PA2   |
