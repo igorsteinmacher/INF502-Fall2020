@@ -1,6 +1,6 @@
 # Assignment 6: Pandas
 
-* **INDIVIDUAL ASSIGNMENT**
+* **GROUP ASSIGNMENT**
 * **How to submit**: 
   - Download the content of the folder [Pandas](Pandas)
   - Work on the notebooks
