@@ -35,8 +35,8 @@ Everything on this schedule *is subject to change* based on how the specific stu
 | 9  |  6-Oct | MID TERM                                              |                  |                          |          |
 |    |  8-Oct | MID TERM (follow up)                                  |                  |                          |   PA1    |
 | 10 | 13-Oct | Agile development: kanban; test-driven development [slides](slides/Agile.pdf) [examples-unitteest](examples/unittest.zip)|  |
-|    | 15-Oct | In-class exercise (Test)                              |                  |                          |          |
-| 10 | 20-Oct | Data analysis libraries: Pandas ([Markdown](notebooks/PandasKickoff/PandasKickoff.md), [Notebook](notebooks/PandasKickoff.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/igorsteinmacher/INF502-Fall2019/blob/master/notebooks/PandasKickoff.ipynb)) |   |[HW6](assignments/HW6_pandas.md)|    |
+|    | 15-Oct | Data analysis libraries: Pandas ([Markdown](notebooks/PandasKickoff/PandasKickoff.md), [Notebook](notebooks/PandasKickoff.ipynb), [nbviewer]
+| 10 | 20-Oct | In-class exercise (Test)                              |                  |                          |          |(https://nbviewer.jupyter.org/github/igorsteinmacher/INF502-Fall2019/blob/master/notebooks/PandasKickoff.ipynb)) |   |[HW6](assignments/HW6_pandas.md)|    |
 |    | 22-Oct | REST API data collection([Markdown](notebooks/REST_APIs.md), [Jupyter](notebooks/REST_APIs.ipynb))||[PA2](assignments/PA2.md) ||
 | 11 | 27-Oct |                                                       |                  |                         |           |
 |    | 29-Oct | Web Scraping([Markdown](notebooks/BeautifulSoup.md), [Jupyter](notebooks/BeautifulSoup.ipynb))  || | HW6       |
