@@ -46,4 +46,3 @@ Everything on this schedule *is subject to change* based on how the specific stu
 |    | 12-Nov | PA2 -- Time to Work!                                  |                  |                          |       |
 | 15 | 17-Nov | PA2 presentation                                      |                  |                          |    PA2   |
 |    | 19-Nov | PA2 presentation                                      |                  |                          |          |
-| 16 | 24-Nov | HAVE A WONDERFUL BREAK!                               |                  |                          |          |
