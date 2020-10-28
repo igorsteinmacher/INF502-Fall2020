@@ -2,7 +2,9 @@
 
 **How to Turn In:** Create a Python Notebook on your repository named `InClassSep29.ipynb`
 
-**Deadline:** Today
+**1 notebook per group is enough. Remember to add the name of all students in the group to your Notebook**
+
+**Deadline:** Oct-01
 
 We want to manage our movie collection. To do so, we need to write a program that helps us. You need to use OO design and follow the constraints below:
 

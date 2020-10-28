@@ -36,7 +36,6 @@ you found before):
 * `https://api.github.com/repos/JabRef/jabref/pulls/5531`
 
 Then, for each author (user) you find in the pull requests you need to keep: login and number of pull requests (calculated). 
-In addition: Using the login, you are required to check if there is an account on Twitter using the same username (e.g., for me, there is a https://twitter.com/igorsteinmacher), and create a flag called has_a_twitter. 
 You are also required to *scrape* the following information from the user profile page on GitHub: 
 Number of Repositories, Number of Followers, Number of Following, Number of contributions in the last year.
 **If you have repeated users, you only need to update the number of pull requests**
@@ -66,7 +65,6 @@ A user may be able to:
    - number of pull requests in `closed` state
    - number of users
    - date of the oldest pull requested
-   - number of users with a valid twitter account
    
 * create graphics given a repo:
    - boxplot comparing closed and open pull requests in terms of number of commits
