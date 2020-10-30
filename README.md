@@ -38,7 +38,7 @@ Everything on this schedule *is subject to change* based on how the specific stu
 |    | 15-Oct | Data analysis libraries: Pandas ([Markdown](notebooks/PandasKickoff/PandasKickoff.md), [Notebook](notebooks/PandasKickoff.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/igorsteinmacher/INF502-Fall2019/blob/master/notebooks/PandasKickoff.ipynb)) |   |[HW6](assignments/HW6_pandas.md)|    |
 | 10 | 20-Oct | In-class exercise (Test)  - NO MEETING                            |                  |                          |          |
 |    | 22-Oct | Wrapping up Pandas||[PA2](assignments/PA2.md) ||
-| 11 | 27-Oct |REST API data collection([Markdown](notebooks/REST_APIs.md), [Jupyter](notebooks/REST_APIs.ipynb))                                                       |                  |                         |           |
+| 11 | 27-Oct |REST API data collection([nbviewer](https://nbviewer.jupyter.org/github/igorsteinmacher/INF502-Fall2020/blob/master/notebooks/REST_APIs.ipynb) [Markdown](notebooks/REST_APIs.md), [Jupyter](notebooks/REST_APIs.ipynb))                                                       |                  |                         |           |
 |    | 29-Oct | Web Scraping([Markdown](notebooks/BeautifulSoup.md), [Jupyter](notebooks/BeautifulSoup.ipynb))  || | HW6       |
 | 12 |  3-Nov | [In Class Assignment (Scraping + Pandas)](assignments/inClassNov03.md)|  |                          |          |
 |    |  5-Nov | Assignment Discussion| | | |

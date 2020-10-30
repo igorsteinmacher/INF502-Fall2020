@@ -12,7 +12,7 @@ I hope you enjoy this assignment.
 ## Context
 
 We want to understand the context of GitHub. Analyzing repositories and developers who contribute. 
-Your application will have to consume the [GitHub REST API version 3](https://developer.github.com/v3/), 
+Your application will have to consume the [GitHub REST API](https://docs.github.com/en/free-pro-team@latest/rest), 
 to collect information about the repo, pull requests, and users. 
 
 Since we are interested in the social side of software development,  we will also scrape data from their GitHub profile.
