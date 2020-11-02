@@ -1,5 +1,9 @@
 ## In class assignment (Nov-3)
 
+### This is a group assignment
+
+Please create a notebook called InClassNov3.ipynb in your repo and make sure that you list all the names at the top of the notebook
+
 ### BeautifulSoup + Pandas:
 
 1. You are required to write a function that scrapes the Wikipedia article with 
