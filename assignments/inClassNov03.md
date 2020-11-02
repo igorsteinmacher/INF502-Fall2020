@@ -5,7 +5,7 @@
 1. You are required to write a function that scrapes the Wikipedia article with 
 the list of countries by population (Main Table)
 (https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population_density). 
-We do not want to collect the data related to "World" (Find a way to skipe these lines).
+We do not want to collect the data related to "World" (Find a way to skip these lines).
 Collect the following information:
 * Country name
 * Area (km2)
