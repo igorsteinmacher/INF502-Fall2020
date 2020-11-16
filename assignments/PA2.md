@@ -77,7 +77,7 @@ A user may be able to:
    - line graph comparing number of open and closed pull requests per day
    - bars comparing the number of users per repo
 
-* calculate the correlation between the data collected for a user 
+* calculate the correlation between the data collected for the users
 (following, followers, number of pull requests, number of contributions, etc.)
 
 * calculate the correlation between all the numeric data in the pull requests for a repo
